@@ -71,7 +71,17 @@
     "story-067": "audio/stories/story-067.m4a",
     "story-068": "audio/stories/story-068.m4a",
     "story-069": "audio/stories/story-069.m4a",
-    "story-070": "audio/stories/story-070.m4a"
+    "story-070": "audio/stories/story-070.m4a",
+    "story-071": "audio/stories/story-071.m4a",
+    "story-072": "audio/stories/story-072.m4a",
+    "story-073": "audio/stories/story-073.m4a",
+    "story-074": "audio/stories/story-074.m4a",
+    "story-075": "audio/stories/story-075.m4a",
+    "story-076": "audio/stories/story-076.m4a",
+    "story-077": "audio/stories/story-077.m4a",
+    "story-078": "audio/stories/story-078.m4a",
+    "story-079": "audio/stories/story-079.m4a",
+    "story-080": "audio/stories/story-080.m4a"
   },
   "cues": {
     "story-001": [
@@ -3013,6 +3023,426 @@
         "start": 91.21,
         "end": 97.01
       }
+    ],
+    "story-071": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.14
+      },
+      {
+        "id": "scene-1",
+        "start": 4.69,
+        "end": 18.3
+      },
+      {
+        "id": "scene-2",
+        "start": 18.85,
+        "end": 33.29
+      },
+      {
+        "id": "scene-3",
+        "start": 33.84,
+        "end": 47.26
+      },
+      {
+        "id": "scene-4",
+        "start": 47.81,
+        "end": 63.9
+      },
+      {
+        "id": "scene-5",
+        "start": 64.45,
+        "end": 79.7
+      },
+      {
+        "id": "scene-6",
+        "start": 80.25,
+        "end": 95.5
+      },
+      {
+        "id": "story-end",
+        "start": 96.05,
+        "end": 101.86
+      }
+    ],
+    "story-072": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.82
+      },
+      {
+        "id": "scene-1",
+        "start": 4.37,
+        "end": 19.86
+      },
+      {
+        "id": "scene-2",
+        "start": 20.41,
+        "end": 34.34
+      },
+      {
+        "id": "scene-3",
+        "start": 34.89,
+        "end": 50.16
+      },
+      {
+        "id": "scene-4",
+        "start": 50.71,
+        "end": 65.24
+      },
+      {
+        "id": "scene-5",
+        "start": 65.79,
+        "end": 80.55
+      },
+      {
+        "id": "scene-6",
+        "start": 81.1,
+        "end": 98.51
+      },
+      {
+        "id": "story-end",
+        "start": 99.06,
+        "end": 104.86
+      }
+    ],
+    "story-073": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.5
+      },
+      {
+        "id": "scene-1",
+        "start": 5.05,
+        "end": 22.63
+      },
+      {
+        "id": "scene-2",
+        "start": 23.18,
+        "end": 37.73
+      },
+      {
+        "id": "scene-3",
+        "start": 38.28,
+        "end": 52.25
+      },
+      {
+        "id": "scene-4",
+        "start": 52.8,
+        "end": 68.4
+      },
+      {
+        "id": "scene-5",
+        "start": 68.95,
+        "end": 84.22
+      },
+      {
+        "id": "scene-6",
+        "start": 84.77,
+        "end": 99.77
+      },
+      {
+        "id": "story-end",
+        "start": 100.32,
+        "end": 106.12
+      }
+    ],
+    "story-074": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.99
+      },
+      {
+        "id": "scene-1",
+        "start": 4.54,
+        "end": 19.15
+      },
+      {
+        "id": "scene-2",
+        "start": 19.7,
+        "end": 34.4
+      },
+      {
+        "id": "scene-3",
+        "start": 34.95,
+        "end": 50.18
+      },
+      {
+        "id": "scene-4",
+        "start": 50.73,
+        "end": 67.71
+      },
+      {
+        "id": "scene-5",
+        "start": 68.26,
+        "end": 84.39
+      },
+      {
+        "id": "scene-6",
+        "start": 84.94,
+        "end": 100.28
+      },
+      {
+        "id": "story-end",
+        "start": 100.83,
+        "end": 106.63
+      }
+    ],
+    "story-075": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.05
+      },
+      {
+        "id": "scene-1",
+        "start": 4.6,
+        "end": 17.64
+      },
+      {
+        "id": "scene-2",
+        "start": 18.19,
+        "end": 33.85
+      },
+      {
+        "id": "scene-3",
+        "start": 34.4,
+        "end": 49.97
+      },
+      {
+        "id": "scene-4",
+        "start": 50.52,
+        "end": 65.47
+      },
+      {
+        "id": "scene-5",
+        "start": 66.02,
+        "end": 81.49
+      },
+      {
+        "id": "scene-6",
+        "start": 82.04,
+        "end": 95.72
+      },
+      {
+        "id": "story-end",
+        "start": 96.27,
+        "end": 102.07
+      }
+    ],
+    "story-076": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.59
+      },
+      {
+        "id": "scene-1",
+        "start": 5.14,
+        "end": 20.11
+      },
+      {
+        "id": "scene-2",
+        "start": 20.66,
+        "end": 35.19
+      },
+      {
+        "id": "scene-3",
+        "start": 35.74,
+        "end": 51.51
+      },
+      {
+        "id": "scene-4",
+        "start": 52.06,
+        "end": 67.03
+      },
+      {
+        "id": "scene-5",
+        "start": 67.58,
+        "end": 81.7
+      },
+      {
+        "id": "scene-6",
+        "start": 82.25,
+        "end": 96.53
+      },
+      {
+        "id": "story-end",
+        "start": 97.08,
+        "end": 102.88
+      }
+    ],
+    "story-077": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.73
+      },
+      {
+        "id": "scene-1",
+        "start": 4.28,
+        "end": 18.3
+      },
+      {
+        "id": "scene-2",
+        "start": 18.85,
+        "end": 33.57
+      },
+      {
+        "id": "scene-3",
+        "start": 34.12,
+        "end": 48.26
+      },
+      {
+        "id": "scene-4",
+        "start": 48.81,
+        "end": 63.3
+      },
+      {
+        "id": "scene-5",
+        "start": 63.85,
+        "end": 77.65
+      },
+      {
+        "id": "scene-6",
+        "start": 78.2,
+        "end": 91.6
+      },
+      {
+        "id": "story-end",
+        "start": 92.15,
+        "end": 97.95
+      }
+    ],
+    "story-078": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.42
+      },
+      {
+        "id": "scene-1",
+        "start": 4.97,
+        "end": 19.71
+      },
+      {
+        "id": "scene-2",
+        "start": 20.26,
+        "end": 33.68
+      },
+      {
+        "id": "scene-3",
+        "start": 34.23,
+        "end": 47.6
+      },
+      {
+        "id": "scene-4",
+        "start": 48.15,
+        "end": 62.68
+      },
+      {
+        "id": "scene-5",
+        "start": 63.23,
+        "end": 77.89
+      },
+      {
+        "id": "scene-6",
+        "start": 78.44,
+        "end": 94.33
+      },
+      {
+        "id": "story-end",
+        "start": 94.88,
+        "end": 100.68
+      }
+    ],
+    "story-079": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.9
+      },
+      {
+        "id": "scene-1",
+        "start": 4.45,
+        "end": 18.96
+      },
+      {
+        "id": "scene-2",
+        "start": 19.51,
+        "end": 35.81
+      },
+      {
+        "id": "scene-3",
+        "start": 36.36,
+        "end": 49.8
+      },
+      {
+        "id": "scene-4",
+        "start": 50.35,
+        "end": 65.92
+      },
+      {
+        "id": "scene-5",
+        "start": 66.47,
+        "end": 82.64
+      },
+      {
+        "id": "scene-6",
+        "start": 83.19,
+        "end": 98.92
+      },
+      {
+        "id": "story-end",
+        "start": 99.47,
+        "end": 105.27
+      }
+    ],
+    "story-080": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.46
+      },
+      {
+        "id": "scene-1",
+        "start": 4.01,
+        "end": 20.37
+      },
+      {
+        "id": "scene-2",
+        "start": 20.92,
+        "end": 33.95
+      },
+      {
+        "id": "scene-3",
+        "start": 34.5,
+        "end": 49.14
+      },
+      {
+        "id": "scene-4",
+        "start": 49.69,
+        "end": 64.71
+      },
+      {
+        "id": "scene-5",
+        "start": 65.26,
+        "end": 80.79
+      },
+      {
+        "id": "scene-6",
+        "start": 81.34,
+        "end": 96.14
+      },
+      {
+        "id": "story-end",
+        "start": 96.69,
+        "end": 102.5
+      }
     ]
   },
   "wordAudio": {
@@ -3085,7 +3515,17 @@
     "story-067": "audio/words/story-067-words.m4a",
     "story-068": "audio/words/story-068-words.m4a",
     "story-069": "audio/words/story-069-words.m4a",
-    "story-070": "audio/words/story-070-words.m4a"
+    "story-070": "audio/words/story-070-words.m4a",
+    "story-071": "audio/words/story-071-words.m4a",
+    "story-072": "audio/words/story-072-words.m4a",
+    "story-073": "audio/words/story-073-words.m4a",
+    "story-074": "audio/words/story-074-words.m4a",
+    "story-075": "audio/words/story-075-words.m4a",
+    "story-076": "audio/words/story-076-words.m4a",
+    "story-077": "audio/words/story-077-words.m4a",
+    "story-078": "audio/words/story-078-words.m4a",
+    "story-079": "audio/words/story-079-words.m4a",
+    "story-080": "audio/words/story-080-words.m4a"
   },
   "wordCues": {
     "story-001": [
@@ -7776,6 +8216,676 @@
         "id": "question-connection",
         "start": 59.65,
         "end": 64.84
+      }
+    ],
+    "story-071": [
+      {
+        "id": "word-dragon",
+        "start": 0.0,
+        "end": 4.54
+      },
+      {
+        "id": "word-scales",
+        "start": 4.96,
+        "end": 9.15
+      },
+      {
+        "id": "word-fire-breath",
+        "start": 9.57,
+        "end": 13.51
+      },
+      {
+        "id": "word-pastry",
+        "start": 13.93,
+        "end": 18.45
+      },
+      {
+        "id": "word-whisk",
+        "start": 18.87,
+        "end": 23.85
+      },
+      {
+        "id": "word-sweet",
+        "start": 24.27,
+        "end": 27.4
+      },
+      {
+        "id": "word-ingredient",
+        "start": 27.82,
+        "end": 32.07
+      },
+      {
+        "id": "word-delicious",
+        "start": 32.49,
+        "end": 36.07
+      },
+      {
+        "id": "word-bakery",
+        "start": 36.49,
+        "end": 41.12
+      },
+      {
+        "id": "word-friendly",
+        "start": 41.54,
+        "end": 44.68
+      },
+      {
+        "id": "question-recall",
+        "start": 45.1,
+        "end": 49.3
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.72,
+        "end": 54.41
+      },
+      {
+        "id": "question-connection",
+        "start": 54.83,
+        "end": 59.85
+      }
+    ],
+    "story-072": [
+      {
+        "id": "word-fairy",
+        "start": 0.0,
+        "end": 4.54
+      },
+      {
+        "id": "word-pixie",
+        "start": 4.96,
+        "end": 9.59
+      },
+      {
+        "id": "word-wand",
+        "start": 10.01,
+        "end": 14.77
+      },
+      {
+        "id": "word-enchantment",
+        "start": 15.19,
+        "end": 19.67
+      },
+      {
+        "id": "word-sparkle",
+        "start": 20.09,
+        "end": 23.91
+      },
+      {
+        "id": "word-spell",
+        "start": 24.33,
+        "end": 28.49
+      },
+      {
+        "id": "word-potion",
+        "start": 28.91,
+        "end": 32.39
+      },
+      {
+        "id": "word-magical",
+        "start": 32.81,
+        "end": 37.41
+      },
+      {
+        "id": "word-sprout",
+        "start": 37.83,
+        "end": 40.89
+      },
+      {
+        "id": "word-wings",
+        "start": 41.31,
+        "end": 45.19
+      },
+      {
+        "id": "question-recall",
+        "start": 45.61,
+        "end": 49.7
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 50.12,
+        "end": 54.63
+      },
+      {
+        "id": "question-connection",
+        "start": 55.05,
+        "end": 59.44
+      }
+    ],
+    "story-073": [
+      {
+        "id": "word-enchanted",
+        "start": 0.0,
+        "end": 3.84
+      },
+      {
+        "id": "word-tapestry",
+        "start": 4.26,
+        "end": 9.19
+      },
+      {
+        "id": "word-carpet",
+        "start": 9.61,
+        "end": 12.77
+      },
+      {
+        "id": "word-levitate",
+        "start": 13.19,
+        "end": 17.71
+      },
+      {
+        "id": "word-weave",
+        "start": 18.13,
+        "end": 21.82
+      },
+      {
+        "id": "word-skyline",
+        "start": 22.24,
+        "end": 26.8
+      },
+      {
+        "id": "word-adventure",
+        "start": 27.22,
+        "end": 31.38
+      },
+      {
+        "id": "word-soaring",
+        "start": 31.8,
+        "end": 35.17
+      },
+      {
+        "id": "word-float",
+        "start": 35.59,
+        "end": 39.73
+      },
+      {
+        "id": "word-marvel",
+        "start": 40.15,
+        "end": 43.99
+      },
+      {
+        "id": "question-recall",
+        "start": 44.41,
+        "end": 49.62
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 50.04,
+        "end": 55.12
+      },
+      {
+        "id": "question-connection",
+        "start": 55.54,
+        "end": 59.14
+      }
+    ],
+    "story-074": [
+      {
+        "id": "word-ancient",
+        "start": 0.0,
+        "end": 3.9
+      },
+      {
+        "id": "word-gnarly",
+        "start": 4.32,
+        "end": 7.1
+      },
+      {
+        "id": "word-bark",
+        "start": 7.52,
+        "end": 10.8
+      },
+      {
+        "id": "word-whisper",
+        "start": 11.22,
+        "end": 14.7
+      },
+      {
+        "id": "word-lore",
+        "start": 15.12,
+        "end": 20.24
+      },
+      {
+        "id": "word-riddle",
+        "start": 20.66,
+        "end": 24.82
+      },
+      {
+        "id": "word-folklore",
+        "start": 25.24,
+        "end": 29.76
+      },
+      {
+        "id": "word-mystical",
+        "start": 30.18,
+        "end": 34.26
+      },
+      {
+        "id": "word-rooted",
+        "start": 34.68,
+        "end": 37.9
+      },
+      {
+        "id": "word-guardian",
+        "start": 38.32,
+        "end": 42.01
+      },
+      {
+        "id": "question-recall",
+        "start": 42.43,
+        "end": 47.23
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 47.65,
+        "end": 52.24
+      },
+      {
+        "id": "question-connection",
+        "start": 52.66,
+        "end": 55.58
+      }
+    ],
+    "story-075": [
+      {
+        "id": "word-gnome",
+        "start": 0.0,
+        "end": 5.12
+      },
+      {
+        "id": "word-underground",
+        "start": 5.54,
+        "end": 8.76
+      },
+      {
+        "id": "word-tinker",
+        "start": 9.18,
+        "end": 14.15
+      },
+      {
+        "id": "word-contraption",
+        "start": 14.57,
+        "end": 18.26
+      },
+      {
+        "id": "word-gemstone",
+        "start": 18.68,
+        "end": 22.89
+      },
+      {
+        "id": "word-workbench",
+        "start": 23.31,
+        "end": 27.68
+      },
+      {
+        "id": "word-miniature",
+        "start": 28.1,
+        "end": 31.02
+      },
+      {
+        "id": "word-inventive",
+        "start": 31.44,
+        "end": 35.43
+      },
+      {
+        "id": "word-subterranean",
+        "start": 35.85,
+        "end": 39.41
+      },
+      {
+        "id": "word-gear",
+        "start": 39.83,
+        "end": 43.65
+      },
+      {
+        "id": "question-recall",
+        "start": 44.07,
+        "end": 47.98
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 48.4,
+        "end": 52.66
+      },
+      {
+        "id": "question-connection",
+        "start": 53.08,
+        "end": 57.48
+      }
+    ],
+    "story-076": [
+      {
+        "id": "word-unicorn",
+        "start": 0.0,
+        "end": 5.08
+      },
+      {
+        "id": "word-horn",
+        "start": 5.5,
+        "end": 10.51
+      },
+      {
+        "id": "word-iridescent",
+        "start": 10.93,
+        "end": 15.58
+      },
+      {
+        "id": "word-rainbow",
+        "start": 16.0,
+        "end": 20.25
+      },
+      {
+        "id": "word-mystical",
+        "start": 20.67,
+        "end": 25.1
+      },
+      {
+        "id": "word-pure",
+        "start": 25.52,
+        "end": 28.94
+      },
+      {
+        "id": "word-trot",
+        "start": 29.36,
+        "end": 33.01
+      },
+      {
+        "id": "word-shimmering",
+        "start": 33.43,
+        "end": 36.75
+      },
+      {
+        "id": "word-arch",
+        "start": 37.17,
+        "end": 41.57
+      },
+      {
+        "id": "word-legend",
+        "start": 41.99,
+        "end": 47.19
+      },
+      {
+        "id": "question-recall",
+        "start": 47.61,
+        "end": 52.5
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 52.92,
+        "end": 57.29
+      },
+      {
+        "id": "question-connection",
+        "start": 57.71,
+        "end": 61.23
+      }
+    ],
+    "story-077": [
+      {
+        "id": "word-mermaid",
+        "start": 0.0,
+        "end": 5.72
+      },
+      {
+        "id": "word-pearl",
+        "start": 6.14,
+        "end": 11.56
+      },
+      {
+        "id": "word-lagoon",
+        "start": 11.98,
+        "end": 17.18
+      },
+      {
+        "id": "word-oyster",
+        "start": 17.6,
+        "end": 22.08
+      },
+      {
+        "id": "word-luminous",
+        "start": 22.5,
+        "end": 26.77
+      },
+      {
+        "id": "word-coral",
+        "start": 27.19,
+        "end": 32.27
+      },
+      {
+        "id": "word-undersea",
+        "start": 32.69,
+        "end": 37.4
+      },
+      {
+        "id": "word-sparkle",
+        "start": 37.82,
+        "end": 41.83
+      },
+      {
+        "id": "word-tide",
+        "start": 42.25,
+        "end": 46.67
+      },
+      {
+        "id": "word-treasure",
+        "start": 47.09,
+        "end": 51.91
+      },
+      {
+        "id": "question-recall",
+        "start": 52.33,
+        "end": 57.17
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 57.59,
+        "end": 61.69
+      },
+      {
+        "id": "question-connection",
+        "start": 62.11,
+        "end": 66.71
+      }
+    ],
+    "story-078": [
+      {
+        "id": "word-paintbrush",
+        "start": 0.0,
+        "end": 5.31
+      },
+      {
+        "id": "word-canvas",
+        "start": 5.73,
+        "end": 10.45
+      },
+      {
+        "id": "word-animate",
+        "start": 10.87,
+        "end": 15.07
+      },
+      {
+        "id": "word-stroke",
+        "start": 15.49,
+        "end": 20.23
+      },
+      {
+        "id": "word-imaginary",
+        "start": 20.65,
+        "end": 25.68
+      },
+      {
+        "id": "word-vivid",
+        "start": 26.1,
+        "end": 30.45
+      },
+      {
+        "id": "word-masterpiece",
+        "start": 30.87,
+        "end": 35.05
+      },
+      {
+        "id": "word-watercolor",
+        "start": 35.47,
+        "end": 40.49
+      },
+      {
+        "id": "word-creation",
+        "start": 40.91,
+        "end": 44.43
+      },
+      {
+        "id": "word-life",
+        "start": 44.85,
+        "end": 48.86
+      },
+      {
+        "id": "question-recall",
+        "start": 49.28,
+        "end": 54.33
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 54.75,
+        "end": 58.96
+      },
+      {
+        "id": "question-connection",
+        "start": 59.38,
+        "end": 63.56
+      }
+    ],
+    "story-079": [
+      {
+        "id": "word-giant",
+        "start": 0.0,
+        "end": 4.37
+      },
+      {
+        "id": "word-enormous",
+        "start": 4.79,
+        "end": 8.93
+      },
+      {
+        "id": "word-stride",
+        "start": 9.35,
+        "end": 12.47
+      },
+      {
+        "id": "word-clumsy",
+        "start": 12.89,
+        "end": 16.98
+      },
+      {
+        "id": "word-gentle",
+        "start": 17.4,
+        "end": 22.12
+      },
+      {
+        "id": "word-footprint",
+        "start": 22.54,
+        "end": 26.97
+      },
+      {
+        "id": "word-valley",
+        "start": 27.39,
+        "end": 31.51
+      },
+      {
+        "id": "word-boulder",
+        "start": 31.93,
+        "end": 35.58
+      },
+      {
+        "id": "word-kindhearted",
+        "start": 36.0,
+        "end": 40.05
+      },
+      {
+        "id": "word-mountain",
+        "start": 40.47,
+        "end": 46.08
+      },
+      {
+        "id": "question-recall",
+        "start": 46.5,
+        "end": 50.81
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 51.23,
+        "end": 56.67
+      },
+      {
+        "id": "question-connection",
+        "start": 57.09,
+        "end": 60.46
+      }
+    ],
+    "story-080": [
+      {
+        "id": "word-portal",
+        "start": 0.0,
+        "end": 4.39
+      },
+      {
+        "id": "word-antique",
+        "start": 4.81,
+        "end": 9.4
+      },
+      {
+        "id": "word-bookmark",
+        "start": 9.82,
+        "end": 14.28
+      },
+      {
+        "id": "word-bookshelf",
+        "start": 14.7,
+        "end": 19.39
+      },
+      {
+        "id": "word-realm",
+        "start": 19.81,
+        "end": 23.65
+      },
+      {
+        "id": "word-gateway",
+        "start": 24.07,
+        "end": 28.25
+      },
+      {
+        "id": "word-chapter",
+        "start": 28.67,
+        "end": 31.7
+      },
+      {
+        "id": "word-enchanted",
+        "start": 32.12,
+        "end": 36.2
+      },
+      {
+        "id": "word-boundless",
+        "start": 36.62,
+        "end": 41.12
+      },
+      {
+        "id": "word-journey",
+        "start": 41.54,
+        "end": 44.76
+      },
+      {
+        "id": "question-recall",
+        "start": 45.18,
+        "end": 49.23
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.65,
+        "end": 53.43
+      },
+      {
+        "id": "question-connection",
+        "start": 53.85,
+        "end": 58.2
       }
     ]
   }
