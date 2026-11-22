@@ -41,7 +41,8 @@ interface StoryReaderProps {
     activeSegmentId: string | null;
     playWholeStory: (story: Story) => void;
     playScene: (storySlug: string, pageNumber: number, heading: string, text: string) => void;
-    speakWord: (word: string, meaning: string) => void;
+    speakWord: (storySlug: string, word: string, meaning: string) => void;
+    speakQuestion: (storySlug: string, questionId: string, text: string) => void;
     speakText: (text: string, segmentId?: string) => void;
     pause: () => void;
     resume: () => void;
@@ -208,7 +209,7 @@ export function StoryReader({
     setActiveWordPopup(vocab);
     onMarkWordLearned(makeWordKey(story.id, vocab.word));
     if (speech.supported) {
-      speech.speakWord(vocab.word, vocab.meaning);
+      speech.speakWord(story.slug, vocab.word, vocab.meaning);
     }
   };
 
@@ -657,7 +658,7 @@ export function StoryReader({
                         <button
                           type="button"
                           className="inline-speak-pill"
-                          onClick={() => speech.speakText(q.text, segId)}
+                          onClick={() => speech.speakQuestion(story.slug, q.id, q.text)}
                         >
                           <Volume2 size={13} /> Read Question
                         </button>
@@ -787,7 +788,7 @@ export function StoryReader({
                 type="button"
                 className="word-toast__speak-btn"
                 onClick={() =>
-                  speech.speakWord(activeWordPopup.word, activeWordPopup.meaning)
+                  speech.speakWord(story.slug, activeWordPopup.word, activeWordPopup.meaning)
                 }
                 aria-label={`Hear ${activeWordPopup.word}`}
               >

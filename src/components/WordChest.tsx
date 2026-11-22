@@ -10,7 +10,7 @@ interface WordChestProps {
   searchQuery: string;
   learnedWords: Set<string>;
   speechSupported: boolean;
-  onSpeakWord: (word: string, meaning: string) => void;
+  onSpeakWord: (storySlug: string, word: string, meaning: string) => void;
   onToggleWordLearned: (wordKey: string) => void;
   onOpenStory: (storyId: number) => void;
 }
@@ -113,7 +113,7 @@ export function WordChest({
                     className="chest-word-card__speak"
                     onClick={() => {
                       if (speechSupported) {
-                        onSpeakWord(item.word, item.meaning);
+                        onSpeakWord(item.story.slug, item.word, item.meaning);
                       }
                     }}
                   >

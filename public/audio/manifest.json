@@ -11,7 +11,19 @@
     "story-007": "audio/stories/story-007.m4a",
     "story-008": "audio/stories/story-008.m4a",
     "story-009": "audio/stories/story-009.m4a",
-    "story-010": "audio/stories/story-010.m4a"
+    "story-010": "audio/stories/story-010.m4a",
+    "story-011": "audio/stories/story-011.m4a",
+    "story-012": "audio/stories/story-012.m4a",
+    "story-013": "audio/stories/story-013.m4a",
+    "story-014": "audio/stories/story-014.m4a",
+    "story-015": "audio/stories/story-015.m4a",
+    "story-016": "audio/stories/story-016.m4a",
+    "story-017": "audio/stories/story-017.m4a",
+    "story-018": "audio/stories/story-018.m4a",
+    "story-019": "audio/stories/story-019.m4a",
+    "story-020": "audio/stories/story-020.m4a",
+    "story-021": "audio/stories/story-021.m4a",
+    "story-022": "audio/stories/story-022.m4a"
   },
   "cues": {
     "story-001": [
@@ -432,6 +444,510 @@
         "id": "story-end",
         "start": 116.45,
         "end": 122.25
+      }
+    ],
+    "story-011": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.95
+      },
+      {
+        "id": "scene-1",
+        "start": 4.5,
+        "end": 23.87
+      },
+      {
+        "id": "scene-2",
+        "start": 24.42,
+        "end": 43.36
+      },
+      {
+        "id": "scene-3",
+        "start": 43.91,
+        "end": 60.81
+      },
+      {
+        "id": "scene-4",
+        "start": 61.36,
+        "end": 80.24
+      },
+      {
+        "id": "scene-5",
+        "start": 80.79,
+        "end": 100.18
+      },
+      {
+        "id": "scene-6",
+        "start": 100.73,
+        "end": 119.4
+      },
+      {
+        "id": "story-end",
+        "start": 119.95,
+        "end": 125.75
+      }
+    ],
+    "story-012": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.67
+      },
+      {
+        "id": "scene-1",
+        "start": 4.22,
+        "end": 22.93
+      },
+      {
+        "id": "scene-2",
+        "start": 23.48,
+        "end": 40.95
+      },
+      {
+        "id": "scene-3",
+        "start": 41.5,
+        "end": 60.4
+      },
+      {
+        "id": "scene-4",
+        "start": 60.95,
+        "end": 79.38
+      },
+      {
+        "id": "scene-5",
+        "start": 79.93,
+        "end": 99.26
+      },
+      {
+        "id": "scene-6",
+        "start": 99.81,
+        "end": 118.73
+      },
+      {
+        "id": "story-end",
+        "start": 119.28,
+        "end": 125.09
+      }
+    ],
+    "story-013": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.61
+      },
+      {
+        "id": "scene-1",
+        "start": 4.16,
+        "end": 21.82
+      },
+      {
+        "id": "scene-2",
+        "start": 22.37,
+        "end": 39.56
+      },
+      {
+        "id": "scene-3",
+        "start": 40.11,
+        "end": 58.74
+      },
+      {
+        "id": "scene-4",
+        "start": 59.29,
+        "end": 77.44
+      },
+      {
+        "id": "scene-5",
+        "start": 77.99,
+        "end": 96.94
+      },
+      {
+        "id": "scene-6",
+        "start": 97.49,
+        "end": 114.66
+      },
+      {
+        "id": "story-end",
+        "start": 115.21,
+        "end": 121.01
+      }
+    ],
+    "story-014": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.78
+      },
+      {
+        "id": "scene-1",
+        "start": 4.33,
+        "end": 19.73
+      },
+      {
+        "id": "scene-2",
+        "start": 20.28,
+        "end": 36.58
+      },
+      {
+        "id": "scene-3",
+        "start": 37.13,
+        "end": 53.43
+      },
+      {
+        "id": "scene-4",
+        "start": 53.98,
+        "end": 71.77
+      },
+      {
+        "id": "scene-5",
+        "start": 72.32,
+        "end": 90.62
+      },
+      {
+        "id": "scene-6",
+        "start": 91.17,
+        "end": 109.16
+      },
+      {
+        "id": "story-end",
+        "start": 109.71,
+        "end": 115.51
+      }
+    ],
+    "story-015": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.16
+      },
+      {
+        "id": "scene-1",
+        "start": 4.71,
+        "end": 20.39
+      },
+      {
+        "id": "scene-2",
+        "start": 20.94,
+        "end": 38.05
+      },
+      {
+        "id": "scene-3",
+        "start": 38.6,
+        "end": 56.26
+      },
+      {
+        "id": "scene-4",
+        "start": 56.81,
+        "end": 75.46
+      },
+      {
+        "id": "scene-5",
+        "start": 76.01,
+        "end": 93.35
+      },
+      {
+        "id": "scene-6",
+        "start": 93.9,
+        "end": 111.4
+      },
+      {
+        "id": "story-end",
+        "start": 111.95,
+        "end": 117.75
+      }
+    ],
+    "story-016": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.31
+      },
+      {
+        "id": "scene-1",
+        "start": 4.86,
+        "end": 21.33
+      },
+      {
+        "id": "scene-2",
+        "start": 21.88,
+        "end": 39.35
+      },
+      {
+        "id": "scene-3",
+        "start": 39.9,
+        "end": 58.87
+      },
+      {
+        "id": "scene-4",
+        "start": 59.42,
+        "end": 75.59
+      },
+      {
+        "id": "scene-5",
+        "start": 76.14,
+        "end": 92.58
+      },
+      {
+        "id": "scene-6",
+        "start": 93.13,
+        "end": 111.84
+      },
+      {
+        "id": "story-end",
+        "start": 112.39,
+        "end": 118.2
+      }
+    ],
+    "story-017": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.16
+      },
+      {
+        "id": "scene-1",
+        "start": 4.71,
+        "end": 22.46
+      },
+      {
+        "id": "scene-2",
+        "start": 23.01,
+        "end": 39.88
+      },
+      {
+        "id": "scene-3",
+        "start": 40.43,
+        "end": 57.52
+      },
+      {
+        "id": "scene-4",
+        "start": 58.07,
+        "end": 76.18
+      },
+      {
+        "id": "scene-5",
+        "start": 76.73,
+        "end": 93.99
+      },
+      {
+        "id": "scene-6",
+        "start": 94.54,
+        "end": 114.32
+      },
+      {
+        "id": "story-end",
+        "start": 114.87,
+        "end": 120.67
+      }
+    ],
+    "story-018": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.16
+      },
+      {
+        "id": "scene-1",
+        "start": 4.71,
+        "end": 19.56
+      },
+      {
+        "id": "scene-2",
+        "start": 20.11,
+        "end": 36.98
+      },
+      {
+        "id": "scene-3",
+        "start": 37.53,
+        "end": 54.73
+      },
+      {
+        "id": "scene-4",
+        "start": 55.28,
+        "end": 73.65
+      },
+      {
+        "id": "scene-5",
+        "start": 74.2,
+        "end": 92.29
+      },
+      {
+        "id": "scene-6",
+        "start": 92.84,
+        "end": 111.91
+      },
+      {
+        "id": "story-end",
+        "start": 112.46,
+        "end": 118.26
+      }
+    ],
+    "story-019": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.1
+      },
+      {
+        "id": "scene-1",
+        "start": 4.65,
+        "end": 20.22
+      },
+      {
+        "id": "scene-2",
+        "start": 20.77,
+        "end": 38.9
+      },
+      {
+        "id": "scene-3",
+        "start": 39.45,
+        "end": 56.01
+      },
+      {
+        "id": "scene-4",
+        "start": 56.56,
+        "end": 73.56
+      },
+      {
+        "id": "scene-5",
+        "start": 74.11,
+        "end": 91.82
+      },
+      {
+        "id": "scene-6",
+        "start": 92.37,
+        "end": 111.1
+      },
+      {
+        "id": "story-end",
+        "start": 111.65,
+        "end": 117.45
+      }
+    ],
+    "story-020": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.82
+      },
+      {
+        "id": "scene-1",
+        "start": 4.37,
+        "end": 23.12
+      },
+      {
+        "id": "scene-2",
+        "start": 23.67,
+        "end": 41.31
+      },
+      {
+        "id": "scene-3",
+        "start": 41.86,
+        "end": 60.38
+      },
+      {
+        "id": "scene-4",
+        "start": 60.93,
+        "end": 77.51
+      },
+      {
+        "id": "scene-5",
+        "start": 78.06,
+        "end": 95.14
+      },
+      {
+        "id": "scene-6",
+        "start": 95.69,
+        "end": 115.04
+      },
+      {
+        "id": "story-end",
+        "start": 115.59,
+        "end": 121.4
+      }
+    ],
+    "story-021": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.01
+      },
+      {
+        "id": "scene-1",
+        "start": 4.56,
+        "end": 22.35
+      },
+      {
+        "id": "scene-2",
+        "start": 22.9,
+        "end": 40.52
+      },
+      {
+        "id": "scene-3",
+        "start": 41.07,
+        "end": 60.72
+      },
+      {
+        "id": "scene-4",
+        "start": 61.27,
+        "end": 79.06
+      },
+      {
+        "id": "scene-5",
+        "start": 79.61,
+        "end": 98.86
+      },
+      {
+        "id": "scene-6",
+        "start": 99.41,
+        "end": 120.38
+      },
+      {
+        "id": "story-end",
+        "start": 120.93,
+        "end": 126.73
+      }
+    ],
+    "story-022": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.35
+      },
+      {
+        "id": "scene-1",
+        "start": 3.9,
+        "end": 22.84
+      },
+      {
+        "id": "scene-2",
+        "start": 23.39,
+        "end": 42.68
+      },
+      {
+        "id": "scene-3",
+        "start": 43.23,
+        "end": 62.17
+      },
+      {
+        "id": "scene-4",
+        "start": 62.72,
+        "end": 81.71
+      },
+      {
+        "id": "scene-5",
+        "start": 82.26,
+        "end": 99.75
+      },
+      {
+        "id": "scene-6",
+        "start": 100.3,
+        "end": 119.67
+      },
+      {
+        "id": "story-end",
+        "start": 120.22,
+        "end": 126.03
       }
     ]
   }
