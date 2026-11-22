@@ -40,7 +40,7 @@ interface StoryReaderProps {
     isPaused: boolean;
     activeSegmentId: string | null;
     playWholeStory: (story: Story) => void;
-    playScene: (pageNumber: number, heading: string, text: string) => void;
+    playScene: (storySlug: string, pageNumber: number, heading: string, text: string) => void;
     speakWord: (word: string, meaning: string) => void;
     speakText: (text: string, segmentId?: string) => void;
     pause: () => void;
@@ -534,7 +534,12 @@ export function StoryReader({
                             isReadingScene ? 'inline-speak-pill--active' : ''
                           }`}
                           onClick={() =>
-                            speech.playScene(scene.pageNumber, scene.heading, scene.text)
+                            speech.playScene(
+                              story.slug,
+                              scene.pageNumber,
+                              scene.heading,
+                              scene.text
+                            )
                           }
                           title={`Read Page ${scene.pageNumber} aloud`}
                         >
@@ -867,6 +872,7 @@ export function StoryReader({
                   className="btn-read-aloud"
                   onClick={() =>
                     speech.playScene(
+                      story.slug,
                       lightboxScene.pageNumber,
                       lightboxScene.heading,
                       lightboxScene.text

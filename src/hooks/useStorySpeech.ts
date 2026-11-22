@@ -3,14 +3,29 @@ import { Story } from '../types';
 
 export type SpeedPreset = 'slow' | 'normal' | 'fast';
 
+interface AudioCue {
+  id: string;
+  start: number;
+  end: number;
+}
+
 interface AudioManifest {
   model?: string;
   voice?: string;
   stories: Record<string, string>;
+  cues: Record<string, AudioCue[]>;
 }
 
 type QueueStep =
-  | { kind: 'audio'; id: string; url: string; fallbackText: string }
+  | {
+      kind: 'audio';
+      id: string;
+      url: string;
+      fallbackText: string;
+      cues?: AudioCue[];
+      clipStart?: number;
+      clipEnd?: number;
+    }
   | { kind: 'tts'; id: string; text: string };
 
 const AUDIO_RATES: Record<SpeedPreset, number> = {
@@ -33,7 +48,10 @@ export function useStorySpeech() {
   const [ttsSupported] = useState(
     () => typeof window !== 'undefined' && 'speechSynthesis' in window
   );
-  const [manifest, setManifest] = useState<AudioManifest>({ stories: {} });
+  const [manifest, setManifest] = useState<AudioManifest>({
+    stories: {},
+    cues: {},
+  });
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [selectedVoiceURI, setSelectedVoiceURI] = useState<string>('');
   const [speedPreset, setSpeedPreset] = useState<SpeedPreset>('normal');
@@ -65,6 +83,7 @@ export function useStorySpeech() {
             model: data.model,
             voice: data.voice,
             stories: data.stories || {},
+            cues: data.cues || {},
           });
         }
       })
@@ -133,6 +152,8 @@ export function useStorySpeech() {
       el.onended = null;
       el.onerror = null;
       el.onplay = null;
+      el.ontimeupdate = null;
+      el.onloadedmetadata = null;
       el.pause();
       el.currentTime = 0;
       audioRef.current = null;
@@ -265,8 +286,46 @@ export function useStorySpeech() {
           setActiveSegmentId(step.id);
 
           const audio = new Audio(step.url);
+          audio.preload = 'auto';
           audio.playbackRate = AUDIO_RATES[speedRef.current];
           audioRef.current = audio;
+
+          const startPlayback = () => {
+            if (runIdRef.current !== currentRunId) return;
+            if (typeof step.clipStart === 'number' && step.clipStart > 0) {
+              try {
+                audio.currentTime = step.clipStart;
+              } catch {
+                // ignore seek error before metadata
+              }
+            }
+            audio.play().catch(() => {
+              if (runIdRef.current === currentRunId) {
+                stopAudioEl();
+                speakTtsStep(step.id, step.fallbackText, advanceWithPause);
+              }
+            });
+          };
+
+          audio.ontimeupdate = () => {
+            if (runIdRef.current !== currentRunId) return;
+            const t = audio.currentTime;
+
+            // Stop automatically at clipEnd when playing a single page slice
+            if (typeof step.clipEnd === 'number' && t >= step.clipEnd + 0.08) {
+              stopAudioEl();
+              advanceWithPause();
+              return;
+            }
+
+            // Live-highlight the active page during full-story Kokoro narration
+            if (step.cues && step.cues.length > 0) {
+              const activeCue = step.cues.find((c) => t >= c.start - 0.15 && t <= c.end + 0.35);
+              if (activeCue) {
+                setActiveSegmentId(activeCue.id);
+              }
+            }
+          };
 
           audio.onended = () => {
             if (runIdRef.current === currentRunId) {
@@ -282,12 +341,12 @@ export function useStorySpeech() {
             }
           };
 
-          audio.play().catch(() => {
-            if (runIdRef.current === currentRunId) {
-              audioRef.current = null;
-              speakTtsStep(step.id, step.fallbackText, advanceWithPause);
-            }
-          });
+          if (typeof step.clipStart === 'number' && step.clipStart > 0) {
+            audio.onloadedmetadata = startPlayback;
+            audio.load();
+          } else {
+            startPlayback();
+          }
         } else {
           speakTtsStep(step.id, step.text, advanceWithPause);
         }
@@ -309,9 +368,10 @@ export function useStorySpeech() {
         runQueue([
           {
             kind: 'audio',
-            id: 'whole-story',
+            id: 'story-title',
             url: `./${studioAudio}`,
             fallbackText: fallbackFull,
+            cues: manifest.cues[story.slug],
           },
         ]);
       } else {
@@ -334,16 +394,34 @@ export function useStorySpeech() {
   );
 
   const playScene = useCallback(
-    (pageNumber: number, heading: string, text: string) => {
-      runQueue([
-        {
-          kind: 'tts',
-          id: `scene-${pageNumber}`,
-          text: `${heading}. ${stripMarkdown(text)}`,
-        },
-      ]);
+    (storySlug: string, pageNumber: number, heading: string, text: string) => {
+      const studioAudio = manifest.stories[storySlug];
+      const cues = manifest.cues[storySlug];
+      const segId = `scene-${pageNumber}`;
+      const pageCue = cues?.find((c) => c.id === segId);
+
+      if (studioAudio && pageCue) {
+        runQueue([
+          {
+            kind: 'audio',
+            id: segId,
+            url: `./${studioAudio}`,
+            fallbackText: `${heading}. ${stripMarkdown(text)}`,
+            clipStart: pageCue.start,
+            clipEnd: pageCue.end,
+          },
+        ]);
+      } else {
+        runQueue([
+          {
+            kind: 'tts',
+            id: segId,
+            text: `${heading}. ${stripMarkdown(text)}`,
+          },
+        ]);
+      }
     },
-    [runQueue]
+    [manifest, runQueue]
   );
 
   const speakWord = useCallback(
