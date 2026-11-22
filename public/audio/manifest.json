@@ -23,7 +23,15 @@
     "story-019": "audio/stories/story-019.m4a",
     "story-020": "audio/stories/story-020.m4a",
     "story-021": "audio/stories/story-021.m4a",
-    "story-022": "audio/stories/story-022.m4a"
+    "story-022": "audio/stories/story-022.m4a",
+    "story-023": "audio/stories/story-023.m4a",
+    "story-024": "audio/stories/story-024.m4a",
+    "story-025": "audio/stories/story-025.m4a",
+    "story-026": "audio/stories/story-026.m4a",
+    "story-027": "audio/stories/story-027.m4a",
+    "story-028": "audio/stories/story-028.m4a",
+    "story-029": "audio/stories/story-029.m4a",
+    "story-030": "audio/stories/story-030.m4a"
   },
   "cues": {
     "story-001": [
@@ -949,6 +957,342 @@
         "start": 120.22,
         "end": 126.03
       }
+    ],
+    "story-023": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.88
+      },
+      {
+        "id": "scene-1",
+        "start": 4.43,
+        "end": 23.76
+      },
+      {
+        "id": "scene-2",
+        "start": 24.31,
+        "end": 43.89
+      },
+      {
+        "id": "scene-3",
+        "start": 44.44,
+        "end": 64.03
+      },
+      {
+        "id": "scene-4",
+        "start": 64.58,
+        "end": 81.77
+      },
+      {
+        "id": "scene-5",
+        "start": 82.32,
+        "end": 99.94
+      },
+      {
+        "id": "scene-6",
+        "start": 100.49,
+        "end": 116.9
+      },
+      {
+        "id": "story-end",
+        "start": 117.45,
+        "end": 123.25
+      }
+    ],
+    "story-024": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.88
+      },
+      {
+        "id": "scene-1",
+        "start": 4.43,
+        "end": 24.85
+      },
+      {
+        "id": "scene-2",
+        "start": 25.4,
+        "end": 43.02
+      },
+      {
+        "id": "scene-3",
+        "start": 43.57,
+        "end": 62.98
+      },
+      {
+        "id": "scene-4",
+        "start": 63.53,
+        "end": 80.05
+      },
+      {
+        "id": "scene-5",
+        "start": 80.6,
+        "end": 100.07
+      },
+      {
+        "id": "scene-6",
+        "start": 100.62,
+        "end": 120.61
+      },
+      {
+        "id": "story-end",
+        "start": 121.16,
+        "end": 126.96
+      }
+    ],
+    "story-025": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.29
+      },
+      {
+        "id": "scene-1",
+        "start": 4.84,
+        "end": 23.25
+      },
+      {
+        "id": "scene-2",
+        "start": 23.8,
+        "end": 44.41
+      },
+      {
+        "id": "scene-3",
+        "start": 44.96,
+        "end": 61.58
+      },
+      {
+        "id": "scene-4",
+        "start": 62.13,
+        "end": 80.49
+      },
+      {
+        "id": "scene-5",
+        "start": 81.04,
+        "end": 96.83
+      },
+      {
+        "id": "scene-6",
+        "start": 97.38,
+        "end": 114.38
+      },
+      {
+        "id": "story-end",
+        "start": 114.93,
+        "end": 120.74
+      }
+    ],
+    "story-026": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.76
+      },
+      {
+        "id": "scene-1",
+        "start": 5.31,
+        "end": 24.91
+      },
+      {
+        "id": "scene-2",
+        "start": 25.46,
+        "end": 44.49
+      },
+      {
+        "id": "scene-3",
+        "start": 45.04,
+        "end": 65.86
+      },
+      {
+        "id": "scene-4",
+        "start": 66.41,
+        "end": 87.13
+      },
+      {
+        "id": "scene-5",
+        "start": 87.68,
+        "end": 106.3
+      },
+      {
+        "id": "scene-6",
+        "start": 106.85,
+        "end": 128.61
+      },
+      {
+        "id": "story-end",
+        "start": 129.16,
+        "end": 134.96
+      }
+    ],
+    "story-027": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.37
+      },
+      {
+        "id": "scene-1",
+        "start": 4.92,
+        "end": 25.06
+      },
+      {
+        "id": "scene-2",
+        "start": 25.61,
+        "end": 47.31
+      },
+      {
+        "id": "scene-3",
+        "start": 47.86,
+        "end": 66.33
+      },
+      {
+        "id": "scene-4",
+        "start": 66.88,
+        "end": 85.25
+      },
+      {
+        "id": "scene-5",
+        "start": 85.8,
+        "end": 103.1
+      },
+      {
+        "id": "scene-6",
+        "start": 103.65,
+        "end": 122.11
+      },
+      {
+        "id": "story-end",
+        "start": 122.66,
+        "end": 128.46
+      }
+    ],
+    "story-028": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.18
+      },
+      {
+        "id": "scene-1",
+        "start": 4.73,
+        "end": 24.42
+      },
+      {
+        "id": "scene-2",
+        "start": 24.97,
+        "end": 45.6
+      },
+      {
+        "id": "scene-3",
+        "start": 46.15,
+        "end": 66.42
+      },
+      {
+        "id": "scene-4",
+        "start": 66.97,
+        "end": 87.43
+      },
+      {
+        "id": "scene-5",
+        "start": 87.98,
+        "end": 106.64
+      },
+      {
+        "id": "scene-6",
+        "start": 107.19,
+        "end": 125.92
+      },
+      {
+        "id": "story-end",
+        "start": 126.47,
+        "end": 132.28
+      }
+    ],
+    "story-029": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.27
+      },
+      {
+        "id": "scene-1",
+        "start": 4.82,
+        "end": 24.7
+      },
+      {
+        "id": "scene-2",
+        "start": 25.25,
+        "end": 44.68
+      },
+      {
+        "id": "scene-3",
+        "start": 45.23,
+        "end": 64.56
+      },
+      {
+        "id": "scene-4",
+        "start": 65.11,
+        "end": 85.66
+      },
+      {
+        "id": "scene-5",
+        "start": 86.21,
+        "end": 103.87
+      },
+      {
+        "id": "scene-6",
+        "start": 104.42,
+        "end": 123.79
+      },
+      {
+        "id": "story-end",
+        "start": 124.34,
+        "end": 130.14
+      }
+    ],
+    "story-030": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.78
+      },
+      {
+        "id": "scene-1",
+        "start": 4.33,
+        "end": 22.22
+      },
+      {
+        "id": "scene-2",
+        "start": 22.77,
+        "end": 41.63
+      },
+      {
+        "id": "scene-3",
+        "start": 42.18,
+        "end": 61.38
+      },
+      {
+        "id": "scene-4",
+        "start": 61.93,
+        "end": 80.05
+      },
+      {
+        "id": "scene-5",
+        "start": 80.6,
+        "end": 99.03
+      },
+      {
+        "id": "scene-6",
+        "start": 99.58,
+        "end": 117.16
+      },
+      {
+        "id": "story-end",
+        "start": 117.71,
+        "end": 123.51
+      }
     ]
   },
   "wordAudio": {
@@ -971,7 +1315,17 @@
     "story-017": "audio/words/story-017-words.m4a",
     "story-018": "audio/words/story-018-words.m4a",
     "story-019": "audio/words/story-019-words.m4a",
-    "story-020": "audio/words/story-020-words.m4a"
+    "story-020": "audio/words/story-020-words.m4a",
+    "story-021": "audio/words/story-021-words.m4a",
+    "story-022": "audio/words/story-022-words.m4a",
+    "story-023": "audio/words/story-023-words.m4a",
+    "story-024": "audio/words/story-024-words.m4a",
+    "story-025": "audio/words/story-025-words.m4a",
+    "story-026": "audio/words/story-026-words.m4a",
+    "story-027": "audio/words/story-027-words.m4a",
+    "story-028": "audio/words/story-028-words.m4a",
+    "story-029": "audio/words/story-029-words.m4a",
+    "story-030": "audio/words/story-030-words.m4a"
   },
   "wordCues": {
     "story-001": [
@@ -2312,6 +2666,676 @@
         "id": "question-connection",
         "start": 57.11,
         "end": 61.74
+      }
+    ],
+    "story-021": [
+      {
+        "id": "word-propulsion",
+        "start": 0.0,
+        "end": 4.25
+      },
+      {
+        "id": "word-astronaut",
+        "start": 4.67,
+        "end": 8.7
+      },
+      {
+        "id": "word-launch",
+        "start": 9.12,
+        "end": 12.25
+      },
+      {
+        "id": "word-countdown",
+        "start": 12.67,
+        "end": 16.62
+      },
+      {
+        "id": "word-orbit",
+        "start": 17.04,
+        "end": 21.39
+      },
+      {
+        "id": "word-weightless",
+        "start": 21.81,
+        "end": 25.63
+      },
+      {
+        "id": "word-gravity",
+        "start": 26.05,
+        "end": 29.87
+      },
+      {
+        "id": "word-ascend",
+        "start": 30.29,
+        "end": 33.64
+      },
+      {
+        "id": "word-mission",
+        "start": 34.06,
+        "end": 38.07
+      },
+      {
+        "id": "word-booster",
+        "start": 38.49,
+        "end": 42.56
+      },
+      {
+        "id": "question-recall",
+        "start": 42.98,
+        "end": 47.46
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 47.88,
+        "end": 52.49
+      },
+      {
+        "id": "question-connection",
+        "start": 52.91,
+        "end": 57.41
+      }
+    ],
+    "story-022": [
+      {
+        "id": "word-lunar",
+        "start": 0.0,
+        "end": 1.98
+      },
+      {
+        "id": "word-crater",
+        "start": 2.4,
+        "end": 6.95
+      },
+      {
+        "id": "word-dusty",
+        "start": 7.37,
+        "end": 10.5
+      },
+      {
+        "id": "word-bounce",
+        "start": 10.92,
+        "end": 13.78
+      },
+      {
+        "id": "word-rover",
+        "start": 14.2,
+        "end": 18.19
+      },
+      {
+        "id": "word-footprint",
+        "start": 18.61,
+        "end": 21.94
+      },
+      {
+        "id": "word-helmet",
+        "start": 22.36,
+        "end": 26.73
+      },
+      {
+        "id": "word-globe",
+        "start": 27.15,
+        "end": 30.91
+      },
+      {
+        "id": "word-surface",
+        "start": 31.33,
+        "end": 34.61
+      },
+      {
+        "id": "word-reflect",
+        "start": 35.03,
+        "end": 38.43
+      },
+      {
+        "id": "question-recall",
+        "start": 38.85,
+        "end": 43.92
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 44.34,
+        "end": 48.48
+      },
+      {
+        "id": "question-connection",
+        "start": 48.9,
+        "end": 53.38
+      }
+    ],
+    "story-023": [
+      {
+        "id": "word-comet",
+        "start": 0.0,
+        "end": 4.54
+      },
+      {
+        "id": "word-cosmic",
+        "start": 4.96,
+        "end": 8.61
+      },
+      {
+        "id": "word-streak",
+        "start": 9.03,
+        "end": 12.72
+      },
+      {
+        "id": "word-celestial",
+        "start": 13.14,
+        "end": 16.73
+      },
+      {
+        "id": "word-tail",
+        "start": 17.15,
+        "end": 21.31
+      },
+      {
+        "id": "word-velocity",
+        "start": 21.73,
+        "end": 25.63
+      },
+      {
+        "id": "word-cosmos",
+        "start": 26.05,
+        "end": 30.34
+      },
+      {
+        "id": "word-blazing",
+        "start": 30.76,
+        "end": 34.0
+      },
+      {
+        "id": "word-nucleus",
+        "start": 34.42,
+        "end": 37.98
+      },
+      {
+        "id": "word-luminescent",
+        "start": 38.4,
+        "end": 41.71
+      },
+      {
+        "id": "question-recall",
+        "start": 42.13,
+        "end": 47.14
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 47.56,
+        "end": 53.28
+      },
+      {
+        "id": "question-connection",
+        "start": 53.7,
+        "end": 58.33
+      }
+    ],
+    "story-024": [
+      {
+        "id": "word-saturn",
+        "start": 0.0,
+        "end": 3.33
+      },
+      {
+        "id": "word-planetary",
+        "start": 3.75,
+        "end": 6.93
+      },
+      {
+        "id": "word-ring",
+        "start": 7.35,
+        "end": 11.46
+      },
+      {
+        "id": "word-gaseous",
+        "start": 11.88,
+        "end": 15.92
+      },
+      {
+        "id": "word-telescope",
+        "start": 16.34,
+        "end": 21.16
+      },
+      {
+        "id": "word-rotate",
+        "start": 21.58,
+        "end": 24.69
+      },
+      {
+        "id": "word-revolve",
+        "start": 25.11,
+        "end": 28.85
+      },
+      {
+        "id": "word-sphere",
+        "start": 29.27,
+        "end": 32.85
+      },
+      {
+        "id": "word-distance",
+        "start": 33.27,
+        "end": 36.96
+      },
+      {
+        "id": "word-planetarium",
+        "start": 37.38,
+        "end": 42.82
+      },
+      {
+        "id": "question-recall",
+        "start": 43.24,
+        "end": 47.25
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 47.67,
+        "end": 53.07
+      },
+      {
+        "id": "question-connection",
+        "start": 53.49,
+        "end": 57.73
+      }
+    ],
+    "story-025": [
+      {
+        "id": "word-constellation",
+        "start": 0.0,
+        "end": 5.44
+      },
+      {
+        "id": "word-twinkle",
+        "start": 5.86,
+        "end": 9.49
+      },
+      {
+        "id": "word-nebula",
+        "start": 9.91,
+        "end": 15.41
+      },
+      {
+        "id": "word-supernova",
+        "start": 15.83,
+        "end": 20.59
+      },
+      {
+        "id": "word-ignite",
+        "start": 21.01,
+        "end": 24.61
+      },
+      {
+        "id": "word-starlight",
+        "start": 25.03,
+        "end": 29.17
+      },
+      {
+        "id": "word-galaxy",
+        "start": 29.59,
+        "end": 34.69
+      },
+      {
+        "id": "word-gleam",
+        "start": 35.11,
+        "end": 38.18
+      },
+      {
+        "id": "word-beam",
+        "start": 38.6,
+        "end": 41.93
+      },
+      {
+        "id": "word-universe",
+        "start": 42.35,
+        "end": 46.06
+      },
+      {
+        "id": "question-recall",
+        "start": 46.48,
+        "end": 51.71
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 52.13,
+        "end": 56.55
+      },
+      {
+        "id": "question-connection",
+        "start": 56.97,
+        "end": 61.98
+      }
+    ],
+    "story-026": [
+      {
+        "id": "word-rover",
+        "start": 0.0,
+        "end": 5.18
+      },
+      {
+        "id": "word-martian",
+        "start": 5.6,
+        "end": 8.36
+      },
+      {
+        "id": "word-reddish",
+        "start": 8.78,
+        "end": 11.68
+      },
+      {
+        "id": "word-sample",
+        "start": 12.1,
+        "end": 16.81
+      },
+      {
+        "id": "word-solar-powered",
+        "start": 17.23,
+        "end": 21.61
+      },
+      {
+        "id": "word-transmit",
+        "start": 22.03,
+        "end": 25.93
+      },
+      {
+        "id": "word-terrain",
+        "start": 26.35,
+        "end": 29.81
+      },
+      {
+        "id": "word-analyze",
+        "start": 30.23,
+        "end": 33.92
+      },
+      {
+        "id": "word-discover",
+        "start": 34.34,
+        "end": 38.05
+      },
+      {
+        "id": "word-antenna",
+        "start": 38.47,
+        "end": 43.25
+      },
+      {
+        "id": "question-recall",
+        "start": 43.67,
+        "end": 48.94
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.36,
+        "end": 54.5
+      },
+      {
+        "id": "question-connection",
+        "start": 54.92,
+        "end": 59.03
+      }
+    ],
+    "story-027": [
+      {
+        "id": "word-satellite",
+        "start": 0.0,
+        "end": 5.42
+      },
+      {
+        "id": "word-laboratory",
+        "start": 5.84,
+        "end": 10.4
+      },
+      {
+        "id": "word-spacewalk",
+        "start": 10.82,
+        "end": 15.11
+      },
+      {
+        "id": "word-module",
+        "start": 15.53,
+        "end": 20.1
+      },
+      {
+        "id": "word-solar-panel",
+        "start": 20.52,
+        "end": 25.98
+      },
+      {
+        "id": "word-hatch",
+        "start": 26.4,
+        "end": 31.09
+      },
+      {
+        "id": "word-engineer",
+        "start": 31.51,
+        "end": 36.78
+      },
+      {
+        "id": "word-microgravity",
+        "start": 37.2,
+        "end": 42.07
+      },
+      {
+        "id": "word-tether",
+        "start": 42.49,
+        "end": 47.52
+      },
+      {
+        "id": "word-atmospheric",
+        "start": 47.94,
+        "end": 52.01
+      },
+      {
+        "id": "question-recall",
+        "start": 52.43,
+        "end": 57.32
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 57.74,
+        "end": 62.39
+      },
+      {
+        "id": "question-connection",
+        "start": 62.81,
+        "end": 67.63
+      }
+    ],
+    "story-028": [
+      {
+        "id": "word-extraterrestrial",
+        "start": 0.0,
+        "end": 4.33
+      },
+      {
+        "id": "word-observatory",
+        "start": 4.75,
+        "end": 10.15
+      },
+      {
+        "id": "word-interstellar",
+        "start": 10.57,
+        "end": 14.71
+      },
+      {
+        "id": "word-beacon",
+        "start": 15.13,
+        "end": 19.09
+      },
+      {
+        "id": "word-chart",
+        "start": 19.51,
+        "end": 23.76
+      },
+      {
+        "id": "word-signal",
+        "start": 24.18,
+        "end": 28.75
+      },
+      {
+        "id": "word-infinite",
+        "start": 29.17,
+        "end": 32.37
+      },
+      {
+        "id": "word-dimension",
+        "start": 32.79,
+        "end": 36.73
+      },
+      {
+        "id": "word-cosmic",
+        "start": 37.15,
+        "end": 40.31
+      },
+      {
+        "id": "word-stargaze",
+        "start": 40.73,
+        "end": 44.91
+      },
+      {
+        "id": "question-recall",
+        "start": 45.33,
+        "end": 50.15
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 50.57,
+        "end": 55.61
+      },
+      {
+        "id": "question-connection",
+        "start": 56.03,
+        "end": 61.1
+      }
+    ],
+    "story-029": [
+      {
+        "id": "word-aurora",
+        "start": 0.0,
+        "end": 4.95
+      },
+      {
+        "id": "word-phenomenon",
+        "start": 5.37,
+        "end": 9.61
+      },
+      {
+        "id": "word-emerald",
+        "start": 10.03,
+        "end": 13.17
+      },
+      {
+        "id": "word-magnetic",
+        "start": 13.59,
+        "end": 17.84
+      },
+      {
+        "id": "word-solar-wind",
+        "start": 18.26,
+        "end": 23.25
+      },
+      {
+        "id": "word-spectacular",
+        "start": 23.67,
+        "end": 27.53
+      },
+      {
+        "id": "word-skyward",
+        "start": 27.95,
+        "end": 30.83
+      },
+      {
+        "id": "word-luminescence",
+        "start": 31.25,
+        "end": 35.49
+      },
+      {
+        "id": "word-wavy",
+        "start": 35.91,
+        "end": 39.95
+      },
+      {
+        "id": "word-spectacle",
+        "start": 40.37,
+        "end": 44.51
+      },
+      {
+        "id": "question-recall",
+        "start": 44.93,
+        "end": 49.11
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.53,
+        "end": 53.77
+      },
+      {
+        "id": "question-connection",
+        "start": 54.19,
+        "end": 57.61
+      }
+    ],
+    "story-030": [
+      {
+        "id": "word-solar-system",
+        "start": 0.0,
+        "end": 4.39
+      },
+      {
+        "id": "word-axis",
+        "start": 4.81,
+        "end": 10.0
+      },
+      {
+        "id": "word-eclipse",
+        "start": 10.42,
+        "end": 14.77
+      },
+      {
+        "id": "word-equator",
+        "start": 15.19,
+        "end": 20.27
+      },
+      {
+        "id": "word-hemisphere",
+        "start": 20.69,
+        "end": 25.68
+      },
+      {
+        "id": "word-revolution",
+        "start": 26.1,
+        "end": 30.56
+      },
+      {
+        "id": "word-elliptical",
+        "start": 30.98,
+        "end": 34.5
+      },
+      {
+        "id": "word-harmonious",
+        "start": 34.92,
+        "end": 39.51
+      },
+      {
+        "id": "word-celestial",
+        "start": 39.93,
+        "end": 43.27
+      },
+      {
+        "id": "word-gravity",
+        "start": 43.69,
+        "end": 47.58
+      },
+      {
+        "id": "question-recall",
+        "start": 48.0,
+        "end": 52.39
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 52.81,
+        "end": 57.21
+      },
+      {
+        "id": "question-connection",
+        "start": 57.63,
+        "end": 61.77
       }
     ]
   }
