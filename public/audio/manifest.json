@@ -950,5 +950,689 @@
         "end": 126.03
       }
     ]
+  },
+  "wordAudio": {
+    "story-001": "audio/words/story-001-words.m4a",
+    "story-002": "audio/words/story-002-words.m4a",
+    "story-003": "audio/words/story-003-words.m4a",
+    "story-004": "audio/words/story-004-words.m4a",
+    "story-005": "audio/words/story-005-words.m4a",
+    "story-006": "audio/words/story-006-words.m4a",
+    "story-007": "audio/words/story-007-words.m4a",
+    "story-008": "audio/words/story-008-words.m4a",
+    "story-009": "audio/words/story-009-words.m4a",
+    "story-010": "audio/words/story-010-words.m4a"
+  },
+  "wordCues": {
+    "story-001": [
+      {
+        "id": "word-luminous",
+        "start": 0.0,
+        "end": 2.54
+      },
+      {
+        "id": "word-cautious",
+        "start": 2.96,
+        "end": 5.28
+      },
+      {
+        "id": "word-pebble",
+        "start": 5.7,
+        "end": 8.03
+      },
+      {
+        "id": "word-canopy",
+        "start": 8.45,
+        "end": 12.05
+      },
+      {
+        "id": "word-meander",
+        "start": 12.47,
+        "end": 15.23
+      },
+      {
+        "id": "word-glimmer",
+        "start": 15.65,
+        "end": 17.76
+      },
+      {
+        "id": "word-perch",
+        "start": 18.18,
+        "end": 20.65
+      },
+      {
+        "id": "word-rustle",
+        "start": 21.07,
+        "end": 24.42
+      },
+      {
+        "id": "word-courage",
+        "start": 24.84,
+        "end": 28.02
+      },
+      {
+        "id": "word-companion",
+        "start": 28.44,
+        "end": 32.3
+      },
+      {
+        "id": "question-recall",
+        "start": 32.72,
+        "end": 38.27
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 38.69,
+        "end": 46.31
+      },
+      {
+        "id": "question-connection",
+        "start": 46.73,
+        "end": 51.91
+      }
+    ],
+    "story-002": [
+      {
+        "id": "word-hibernate",
+        "start": 0.0,
+        "end": 3.33
+      },
+      {
+        "id": "word-cozy",
+        "start": 3.75,
+        "end": 6.14
+      },
+      {
+        "id": "word-burrow",
+        "start": 6.56,
+        "end": 9.27
+      },
+      {
+        "id": "word-autumn",
+        "start": 9.69,
+        "end": 12.82
+      },
+      {
+        "id": "word-drowsy",
+        "start": 13.24,
+        "end": 15.85
+      },
+      {
+        "id": "word-gather",
+        "start": 16.27,
+        "end": 19.02
+      },
+      {
+        "id": "word-hollow",
+        "start": 19.44,
+        "end": 24.07
+      },
+      {
+        "id": "word-replenish",
+        "start": 24.49,
+        "end": 27.05
+      },
+      {
+        "id": "word-forage",
+        "start": 27.47,
+        "end": 30.47
+      },
+      {
+        "id": "word-awakening",
+        "start": 30.89,
+        "end": 34.09
+      },
+      {
+        "id": "question-recall",
+        "start": 34.51,
+        "end": 39.63
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 40.05,
+        "end": 44.07
+      },
+      {
+        "id": "question-connection",
+        "start": 44.49,
+        "end": 49.56
+      }
+    ],
+    "story-003": [
+      {
+        "id": "word-acorn",
+        "start": 0.0,
+        "end": 3.61
+      },
+      {
+        "id": "word-hoard",
+        "start": 4.03,
+        "end": 7.5
+      },
+      {
+        "id": "word-nimble",
+        "start": 7.92,
+        "end": 10.12
+      },
+      {
+        "id": "word-scamper",
+        "start": 10.54,
+        "end": 13.51
+      },
+      {
+        "id": "word-camouflage",
+        "start": 13.93,
+        "end": 17.81
+      },
+      {
+        "id": "word-treasure",
+        "start": 18.23,
+        "end": 21.21
+      },
+      {
+        "id": "word-retrieve",
+        "start": 21.63,
+        "end": 24.37
+      },
+      {
+        "id": "word-foresight",
+        "start": 24.79,
+        "end": 27.81
+      },
+      {
+        "id": "word-bountiful",
+        "start": 28.23,
+        "end": 31.82
+      },
+      {
+        "id": "word-tuck",
+        "start": 32.24,
+        "end": 35.8
+      },
+      {
+        "id": "question-recall",
+        "start": 36.22,
+        "end": 41.06
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 41.48,
+        "end": 45.69
+      },
+      {
+        "id": "question-connection",
+        "start": 46.11,
+        "end": 51.27
+      }
+    ],
+    "story-004": [
+      {
+        "id": "word-nocturnal",
+        "start": 0.0,
+        "end": 3.65
+      },
+      {
+        "id": "word-glide",
+        "start": 4.07,
+        "end": 6.88
+      },
+      {
+        "id": "word-observer",
+        "start": 7.3,
+        "end": 10.63
+      },
+      {
+        "id": "word-majestic",
+        "start": 11.05,
+        "end": 14.04
+      },
+      {
+        "id": "word-silhouette",
+        "start": 14.46,
+        "end": 18.23
+      },
+      {
+        "id": "word-talon",
+        "start": 18.65,
+        "end": 21.45
+      },
+      {
+        "id": "word-swoop",
+        "start": 21.87,
+        "end": 24.92
+      },
+      {
+        "id": "word-wisdom",
+        "start": 25.34,
+        "end": 29.09
+      },
+      {
+        "id": "word-twilight",
+        "start": 29.51,
+        "end": 33.5
+      },
+      {
+        "id": "word-feathered",
+        "start": 33.92,
+        "end": 36.83
+      },
+      {
+        "id": "question-recall",
+        "start": 37.25,
+        "end": 40.83
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 41.25,
+        "end": 46.71
+      },
+      {
+        "id": "question-connection",
+        "start": 47.13,
+        "end": 52.02
+      }
+    ],
+    "story-005": [
+      {
+        "id": "word-industrious",
+        "start": 0.0,
+        "end": 2.88
+      },
+      {
+        "id": "word-colony",
+        "start": 3.3,
+        "end": 7.29
+      },
+      {
+        "id": "word-obstacle",
+        "start": 7.71,
+        "end": 11.44
+      },
+      {
+        "id": "word-hefty",
+        "start": 11.86,
+        "end": 13.93
+      },
+      {
+        "id": "word-navigate",
+        "start": 14.35,
+        "end": 17.27
+      },
+      {
+        "id": "word-persevere",
+        "start": 17.69,
+        "end": 20.89
+      },
+      {
+        "id": "word-cooperation",
+        "start": 21.31,
+        "end": 24.66
+      },
+      {
+        "id": "word-sturdy",
+        "start": 25.08,
+        "end": 28.2
+      },
+      {
+        "id": "word-bridge",
+        "start": 28.62,
+        "end": 32.42
+      },
+      {
+        "id": "word-triumph",
+        "start": 32.84,
+        "end": 35.93
+      },
+      {
+        "id": "question-recall",
+        "start": 36.35,
+        "end": 41.64
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 42.06,
+        "end": 46.75
+      },
+      {
+        "id": "question-connection",
+        "start": 47.17,
+        "end": 52.68
+      }
+    ],
+    "story-006": [
+      {
+        "id": "word-dawn",
+        "start": 0.0,
+        "end": 3.37
+      },
+      {
+        "id": "word-dewdrop",
+        "start": 3.79,
+        "end": 7.61
+      },
+      {
+        "id": "word-pasture",
+        "start": 8.03,
+        "end": 11.7
+      },
+      {
+        "id": "word-graceful",
+        "start": 12.12,
+        "end": 15.45
+      },
+      {
+        "id": "word-graze",
+        "start": 15.87,
+        "end": 18.92
+      },
+      {
+        "id": "word-tranquil",
+        "start": 19.34,
+        "end": 22.13
+      },
+      {
+        "id": "word-alert",
+        "start": 22.55,
+        "end": 26.2
+      },
+      {
+        "id": "word-leap",
+        "start": 26.62,
+        "end": 29.09
+      },
+      {
+        "id": "word-meadow",
+        "start": 29.51,
+        "end": 33.31
+      },
+      {
+        "id": "word-pristine",
+        "start": 33.73,
+        "end": 36.63
+      },
+      {
+        "id": "question-recall",
+        "start": 37.05,
+        "end": 40.68
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 41.1,
+        "end": 45.86
+      },
+      {
+        "id": "question-connection",
+        "start": 46.28,
+        "end": 49.67
+      }
+    ],
+    "story-007": [
+      {
+        "id": "word-architect",
+        "start": 0.0,
+        "end": 3.05
+      },
+      {
+        "id": "word-lodge",
+        "start": 3.47,
+        "end": 7.2
+      },
+      {
+        "id": "word-timber",
+        "start": 7.62,
+        "end": 10.97
+      },
+      {
+        "id": "word-current",
+        "start": 11.39,
+        "end": 14.27
+      },
+      {
+        "id": "word-dam",
+        "start": 14.69,
+        "end": 18.13
+      },
+      {
+        "id": "word-watertight",
+        "start": 18.55,
+        "end": 21.79
+      },
+      {
+        "id": "word-paddle",
+        "start": 22.21,
+        "end": 25.11
+      },
+      {
+        "id": "word-canal",
+        "start": 25.53,
+        "end": 27.96
+      },
+      {
+        "id": "word-inspect",
+        "start": 28.38,
+        "end": 31.71
+      },
+      {
+        "id": "word-splendid",
+        "start": 32.13,
+        "end": 35.18
+      },
+      {
+        "id": "question-recall",
+        "start": 35.6,
+        "end": 40.08
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 40.5,
+        "end": 45.45
+      },
+      {
+        "id": "question-connection",
+        "start": 45.87,
+        "end": 50.12
+      }
+    ],
+    "story-008": [
+      {
+        "id": "word-vibrant",
+        "start": 0.0,
+        "end": 3.29
+      },
+      {
+        "id": "word-conceal",
+        "start": 3.71,
+        "end": 6.48
+      },
+      {
+        "id": "word-spectrum",
+        "start": 6.9,
+        "end": 10.23
+      },
+      {
+        "id": "word-disguise",
+        "start": 10.65,
+        "end": 14.02
+      },
+      {
+        "id": "word-observant",
+        "start": 14.44,
+        "end": 18.06
+      },
+      {
+        "id": "word-texture",
+        "start": 18.48,
+        "end": 22.52
+      },
+      {
+        "id": "word-bask",
+        "start": 22.94,
+        "end": 25.99
+      },
+      {
+        "id": "word-prehensile",
+        "start": 26.41,
+        "end": 31.08
+      },
+      {
+        "id": "word-dart",
+        "start": 31.5,
+        "end": 33.93
+      },
+      {
+        "id": "word-fascinating",
+        "start": 34.35,
+        "end": 37.83
+      },
+      {
+        "id": "question-recall",
+        "start": 38.25,
+        "end": 42.49
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 42.91,
+        "end": 48.91
+      },
+      {
+        "id": "question-connection",
+        "start": 49.33,
+        "end": 54.53
+      }
+    ],
+    "story-009": [
+      {
+        "id": "word-quill",
+        "start": 0.0,
+        "end": 3.24
+      },
+      {
+        "id": "word-curl",
+        "start": 3.66,
+        "end": 6.56
+      },
+      {
+        "id": "word-defensive",
+        "start": 6.98,
+        "end": 10.33
+      },
+      {
+        "id": "word-snout",
+        "start": 10.75,
+        "end": 13.91
+      },
+      {
+        "id": "word-snuggle",
+        "start": 14.33,
+        "end": 17.25
+      },
+      {
+        "id": "word-gentle",
+        "start": 17.67,
+        "end": 21.36
+      },
+      {
+        "id": "word-prickly",
+        "start": 21.78,
+        "end": 24.11
+      },
+      {
+        "id": "word-wander",
+        "start": 24.53,
+        "end": 27.47
+      },
+      {
+        "id": "word-reassure",
+        "start": 27.89,
+        "end": 31.35
+      },
+      {
+        "id": "word-affection",
+        "start": 31.77,
+        "end": 35.37
+      },
+      {
+        "id": "question-recall",
+        "start": 35.79,
+        "end": 40.89
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 41.31,
+        "end": 45.92
+      },
+      {
+        "id": "question-connection",
+        "start": 46.34,
+        "end": 51.93
+      }
+    ],
+    "story-010": [
+      {
+        "id": "word-migrate",
+        "start": 0.0,
+        "end": 3.82
+      },
+      {
+        "id": "word-flutter",
+        "start": 4.24,
+        "end": 7.69
+      },
+      {
+        "id": "word-nectar",
+        "start": 8.11,
+        "end": 11.89
+      },
+      {
+        "id": "word-caterpillar",
+        "start": 12.31,
+        "end": 16.17
+      },
+      {
+        "id": "word-chrysalis",
+        "start": 16.59,
+        "end": 20.69
+      },
+      {
+        "id": "word-transform",
+        "start": 21.11,
+        "end": 24.67
+      },
+      {
+        "id": "word-delicate",
+        "start": 25.09,
+        "end": 28.38
+      },
+      {
+        "id": "word-pollen",
+        "start": 28.8,
+        "end": 32.66
+      },
+      {
+        "id": "word-voyage",
+        "start": 33.08,
+        "end": 36.26
+      },
+      {
+        "id": "word-blossom",
+        "start": 36.68,
+        "end": 39.92
+      },
+      {
+        "id": "question-recall",
+        "start": 40.34,
+        "end": 44.82
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 45.24,
+        "end": 48.84
+      },
+      {
+        "id": "question-connection",
+        "start": 49.26,
+        "end": 55.13
+      }
+    ]
   }
 }
