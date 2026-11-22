@@ -31,7 +31,17 @@
     "story-027": "audio/stories/story-027.m4a",
     "story-028": "audio/stories/story-028.m4a",
     "story-029": "audio/stories/story-029.m4a",
-    "story-030": "audio/stories/story-030.m4a"
+    "story-030": "audio/stories/story-030.m4a",
+    "story-031": "audio/stories/story-031.m4a",
+    "story-032": "audio/stories/story-032.m4a",
+    "story-033": "audio/stories/story-033.m4a",
+    "story-034": "audio/stories/story-034.m4a",
+    "story-035": "audio/stories/story-035.m4a",
+    "story-036": "audio/stories/story-036.m4a",
+    "story-037": "audio/stories/story-037.m4a",
+    "story-038": "audio/stories/story-038.m4a",
+    "story-039": "audio/stories/story-039.m4a",
+    "story-040": "audio/stories/story-040.m4a"
   },
   "cues": {
     "story-001": [
@@ -1293,6 +1303,426 @@
         "start": 117.71,
         "end": 123.51
       }
+    ],
+    "story-031": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.37
+      },
+      {
+        "id": "scene-1",
+        "start": 4.92,
+        "end": 23.7
+      },
+      {
+        "id": "scene-2",
+        "start": 24.25,
+        "end": 44.13
+      },
+      {
+        "id": "scene-3",
+        "start": 44.68,
+        "end": 64.75
+      },
+      {
+        "id": "scene-4",
+        "start": 65.3,
+        "end": 85.68
+      },
+      {
+        "id": "scene-5",
+        "start": 86.23,
+        "end": 103.02
+      },
+      {
+        "id": "scene-6",
+        "start": 103.57,
+        "end": 119.93
+      },
+      {
+        "id": "story-end",
+        "start": 120.48,
+        "end": 126.28
+      }
+    ],
+    "story-032": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.35
+      },
+      {
+        "id": "scene-1",
+        "start": 4.9,
+        "end": 24.89
+      },
+      {
+        "id": "scene-2",
+        "start": 25.44,
+        "end": 45.64
+      },
+      {
+        "id": "scene-3",
+        "start": 46.19,
+        "end": 65.33
+      },
+      {
+        "id": "scene-4",
+        "start": 65.88,
+        "end": 85.55
+      },
+      {
+        "id": "scene-5",
+        "start": 86.1,
+        "end": 105.06
+      },
+      {
+        "id": "scene-6",
+        "start": 105.61,
+        "end": 125.45
+      },
+      {
+        "id": "story-end",
+        "start": 126.0,
+        "end": 131.81
+      }
+    ],
+    "story-033": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.78
+      },
+      {
+        "id": "scene-1",
+        "start": 4.33,
+        "end": 21.52
+      },
+      {
+        "id": "scene-2",
+        "start": 22.07,
+        "end": 40.2
+      },
+      {
+        "id": "scene-3",
+        "start": 40.75,
+        "end": 57.18
+      },
+      {
+        "id": "scene-4",
+        "start": 57.73,
+        "end": 74.11
+      },
+      {
+        "id": "scene-5",
+        "start": 74.66,
+        "end": 90.34
+      },
+      {
+        "id": "scene-6",
+        "start": 90.89,
+        "end": 109.84
+      },
+      {
+        "id": "story-end",
+        "start": 110.39,
+        "end": 116.19
+      }
+    ],
+    "story-034": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.67
+      },
+      {
+        "id": "scene-1",
+        "start": 4.22,
+        "end": 24.36
+      },
+      {
+        "id": "scene-2",
+        "start": 24.91,
+        "end": 43.85
+      },
+      {
+        "id": "scene-3",
+        "start": 44.4,
+        "end": 63.41
+      },
+      {
+        "id": "scene-4",
+        "start": 63.96,
+        "end": 82.5
+      },
+      {
+        "id": "scene-5",
+        "start": 83.05,
+        "end": 103.34
+      },
+      {
+        "id": "scene-6",
+        "start": 103.89,
+        "end": 124.2
+      },
+      {
+        "id": "story-end",
+        "start": 124.75,
+        "end": 130.55
+      }
+    ],
+    "story-035": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.75
+      },
+      {
+        "id": "scene-1",
+        "start": 4.3,
+        "end": 21.95
+      },
+      {
+        "id": "scene-2",
+        "start": 22.5,
+        "end": 40.18
+      },
+      {
+        "id": "scene-3",
+        "start": 40.73,
+        "end": 56.31
+      },
+      {
+        "id": "scene-4",
+        "start": 56.86,
+        "end": 76.16
+      },
+      {
+        "id": "scene-5",
+        "start": 76.71,
+        "end": 97.0
+      },
+      {
+        "id": "scene-6",
+        "start": 97.55,
+        "end": 116.56
+      },
+      {
+        "id": "story-end",
+        "start": 117.11,
+        "end": 122.91
+      }
+    ],
+    "story-036": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.97
+      },
+      {
+        "id": "scene-1",
+        "start": 4.52,
+        "end": 24.59
+      },
+      {
+        "id": "scene-2",
+        "start": 25.14,
+        "end": 44.21
+      },
+      {
+        "id": "scene-3",
+        "start": 44.76,
+        "end": 64.33
+      },
+      {
+        "id": "scene-4",
+        "start": 64.88,
+        "end": 85.59
+      },
+      {
+        "id": "scene-5",
+        "start": 86.14,
+        "end": 104.81
+      },
+      {
+        "id": "scene-6",
+        "start": 105.36,
+        "end": 123.68
+      },
+      {
+        "id": "story-end",
+        "start": 124.23,
+        "end": 130.04
+      }
+    ],
+    "story-037": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.65
+      },
+      {
+        "id": "scene-1",
+        "start": 5.2,
+        "end": 22.01
+      },
+      {
+        "id": "scene-2",
+        "start": 22.56,
+        "end": 43.64
+      },
+      {
+        "id": "scene-3",
+        "start": 44.19,
+        "end": 61.96
+      },
+      {
+        "id": "scene-4",
+        "start": 62.51,
+        "end": 81.56
+      },
+      {
+        "id": "scene-5",
+        "start": 82.11,
+        "end": 103.87
+      },
+      {
+        "id": "scene-6",
+        "start": 104.42,
+        "end": 124.13
+      },
+      {
+        "id": "story-end",
+        "start": 124.68,
+        "end": 130.48
+      }
+    ],
+    "story-038": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.93
+      },
+      {
+        "id": "scene-1",
+        "start": 4.48,
+        "end": 22.18
+      },
+      {
+        "id": "scene-2",
+        "start": 22.73,
+        "end": 42.0
+      },
+      {
+        "id": "scene-3",
+        "start": 42.55,
+        "end": 59.59
+      },
+      {
+        "id": "scene-4",
+        "start": 60.14,
+        "end": 76.76
+      },
+      {
+        "id": "scene-5",
+        "start": 77.31,
+        "end": 95.21
+      },
+      {
+        "id": "scene-6",
+        "start": 95.76,
+        "end": 112.95
+      },
+      {
+        "id": "story-end",
+        "start": 113.5,
+        "end": 119.31
+      }
+    ],
+    "story-039": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.75
+      },
+      {
+        "id": "scene-1",
+        "start": 4.3,
+        "end": 23.4
+      },
+      {
+        "id": "scene-2",
+        "start": 23.95,
+        "end": 44.53
+      },
+      {
+        "id": "scene-3",
+        "start": 45.08,
+        "end": 64.26
+      },
+      {
+        "id": "scene-4",
+        "start": 64.81,
+        "end": 82.14
+      },
+      {
+        "id": "scene-5",
+        "start": 82.69,
+        "end": 103.64
+      },
+      {
+        "id": "scene-6",
+        "start": 104.19,
+        "end": 120.97
+      },
+      {
+        "id": "story-end",
+        "start": 121.52,
+        "end": 127.33
+      }
+    ],
+    "story-040": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.12
+      },
+      {
+        "id": "scene-1",
+        "start": 4.67,
+        "end": 25.36
+      },
+      {
+        "id": "scene-2",
+        "start": 25.91,
+        "end": 45.41
+      },
+      {
+        "id": "scene-3",
+        "start": 45.96,
+        "end": 65.71
+      },
+      {
+        "id": "scene-4",
+        "start": 66.26,
+        "end": 85.4
+      },
+      {
+        "id": "scene-5",
+        "start": 85.95,
+        "end": 108.14
+      },
+      {
+        "id": "scene-6",
+        "start": 108.69,
+        "end": 127.57
+      },
+      {
+        "id": "story-end",
+        "start": 128.12,
+        "end": 133.92
+      }
     ]
   },
   "wordAudio": {
@@ -1325,7 +1755,17 @@
     "story-027": "audio/words/story-027-words.m4a",
     "story-028": "audio/words/story-028-words.m4a",
     "story-029": "audio/words/story-029-words.m4a",
-    "story-030": "audio/words/story-030-words.m4a"
+    "story-030": "audio/words/story-030-words.m4a",
+    "story-031": "audio/words/story-031-words.m4a",
+    "story-032": "audio/words/story-032-words.m4a",
+    "story-033": "audio/words/story-033-words.m4a",
+    "story-034": "audio/words/story-034-words.m4a",
+    "story-035": "audio/words/story-035-words.m4a",
+    "story-036": "audio/words/story-036-words.m4a",
+    "story-037": "audio/words/story-037-words.m4a",
+    "story-038": "audio/words/story-038-words.m4a",
+    "story-039": "audio/words/story-039-words.m4a",
+    "story-040": "audio/words/story-040-words.m4a"
   },
   "wordCues": {
     "story-001": [
@@ -3336,6 +3776,676 @@
         "id": "question-connection",
         "start": 57.63,
         "end": 61.77
+      }
+    ],
+    "story-031": [
+      {
+        "id": "word-evaporate",
+        "start": 0.0,
+        "end": 5.55
+      },
+      {
+        "id": "word-vapor",
+        "start": 5.97,
+        "end": 10.04
+      },
+      {
+        "id": "word-condense",
+        "start": 10.46,
+        "end": 15.07
+      },
+      {
+        "id": "word-cloud",
+        "start": 15.49,
+        "end": 20.65
+      },
+      {
+        "id": "word-precipitation",
+        "start": 21.07,
+        "end": 26.32
+      },
+      {
+        "id": "word-droplet",
+        "start": 26.74,
+        "end": 29.73
+      },
+      {
+        "id": "word-puddle",
+        "start": 30.15,
+        "end": 33.41
+      },
+      {
+        "id": "word-stream",
+        "start": 33.83,
+        "end": 37.22
+      },
+      {
+        "id": "word-water-cycle",
+        "start": 37.64,
+        "end": 43.06
+      },
+      {
+        "id": "word-soak",
+        "start": 43.48,
+        "end": 47.58
+      },
+      {
+        "id": "question-recall",
+        "start": 48.0,
+        "end": 53.2
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 53.62,
+        "end": 59.36
+      },
+      {
+        "id": "question-connection",
+        "start": 59.78,
+        "end": 64.01
+      }
+    ],
+    "story-032": [
+      {
+        "id": "word-snowflake",
+        "start": 0.0,
+        "end": 5.16
+      },
+      {
+        "id": "word-crystalline",
+        "start": 5.58,
+        "end": 11.24
+      },
+      {
+        "id": "word-flurry",
+        "start": 11.66,
+        "end": 15.13
+      },
+      {
+        "id": "word-blizzard",
+        "start": 15.55,
+        "end": 19.27
+      },
+      {
+        "id": "word-blanket",
+        "start": 19.69,
+        "end": 23.72
+      },
+      {
+        "id": "word-chill",
+        "start": 24.14,
+        "end": 27.66
+      },
+      {
+        "id": "word-icicle",
+        "start": 28.08,
+        "end": 33.5
+      },
+      {
+        "id": "word-frigid",
+        "start": 33.92,
+        "end": 36.52
+      },
+      {
+        "id": "word-melt",
+        "start": 36.94,
+        "end": 41.12
+      },
+      {
+        "id": "word-frost",
+        "start": 41.54,
+        "end": 47.09
+      },
+      {
+        "id": "question-recall",
+        "start": 47.51,
+        "end": 52.16
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 52.58,
+        "end": 57.08
+      },
+      {
+        "id": "question-connection",
+        "start": 57.5,
+        "end": 61.94
+      }
+    ],
+    "story-033": [
+      {
+        "id": "word-deciduous",
+        "start": 0.0,
+        "end": 4.59
+      },
+      {
+        "id": "word-amber",
+        "start": 5.01,
+        "end": 8.1
+      },
+      {
+        "id": "word-crisp",
+        "start": 8.52,
+        "end": 11.49
+      },
+      {
+        "id": "word-harvest",
+        "start": 11.91,
+        "end": 16.17
+      },
+      {
+        "id": "word-foliage",
+        "start": 16.59,
+        "end": 20.35
+      },
+      {
+        "id": "word-rustling",
+        "start": 20.77,
+        "end": 25.31
+      },
+      {
+        "id": "word-rake",
+        "start": 25.73,
+        "end": 30.13
+      },
+      {
+        "id": "word-breeze",
+        "start": 30.55,
+        "end": 33.11
+      },
+      {
+        "id": "word-golden",
+        "start": 33.53,
+        "end": 36.87
+      },
+      {
+        "id": "word-decay",
+        "start": 37.29,
+        "end": 41.56
+      },
+      {
+        "id": "question-recall",
+        "start": 41.98,
+        "end": 46.29
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 46.71,
+        "end": 51.21
+      },
+      {
+        "id": "question-connection",
+        "start": 51.63,
+        "end": 55.45
+      }
+    ],
+    "story-034": [
+      {
+        "id": "word-sprout",
+        "start": 0.0,
+        "end": 4.31
+      },
+      {
+        "id": "word-seedling",
+        "start": 4.73,
+        "end": 8.27
+      },
+      {
+        "id": "word-germinate",
+        "start": 8.69,
+        "end": 13.3
+      },
+      {
+        "id": "word-bloom",
+        "start": 13.72,
+        "end": 16.98
+      },
+      {
+        "id": "word-petal",
+        "start": 17.4,
+        "end": 21.26
+      },
+      {
+        "id": "word-fragrant",
+        "start": 21.68,
+        "end": 24.93
+      },
+      {
+        "id": "word-sunshine",
+        "start": 25.35,
+        "end": 29.04
+      },
+      {
+        "id": "word-pollinate",
+        "start": 29.46,
+        "end": 34.3
+      },
+      {
+        "id": "word-flourish",
+        "start": 34.72,
+        "end": 38.62
+      },
+      {
+        "id": "word-garden",
+        "start": 39.04,
+        "end": 43.74
+      },
+      {
+        "id": "question-recall",
+        "start": 44.16,
+        "end": 49.49
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.91,
+        "end": 54.43
+      },
+      {
+        "id": "question-connection",
+        "start": 54.85,
+        "end": 59.72
+      }
+    ],
+    "story-035": [
+      {
+        "id": "word-solstice",
+        "start": 0.0,
+        "end": 4.46
+      },
+      {
+        "id": "word-scorching",
+        "start": 4.88,
+        "end": 7.55
+      },
+      {
+        "id": "word-sunbeam",
+        "start": 7.97,
+        "end": 11.78
+      },
+      {
+        "id": "word-horizon",
+        "start": 12.2,
+        "end": 16.58
+      },
+      {
+        "id": "word-dune",
+        "start": 17.0,
+        "end": 20.99
+      },
+      {
+        "id": "word-parasol",
+        "start": 21.41,
+        "end": 26.14
+      },
+      {
+        "id": "word-sandy",
+        "start": 26.56,
+        "end": 29.68
+      },
+      {
+        "id": "word-tide",
+        "start": 30.1,
+        "end": 34.32
+      },
+      {
+        "id": "word-bask",
+        "start": 34.74,
+        "end": 38.07
+      },
+      {
+        "id": "word-radiance",
+        "start": 38.49,
+        "end": 41.8
+      },
+      {
+        "id": "question-recall",
+        "start": 42.22,
+        "end": 46.25
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 46.67,
+        "end": 51.3
+      },
+      {
+        "id": "question-connection",
+        "start": 51.72,
+        "end": 55.58
+      }
+    ],
+    "story-036": [
+      {
+        "id": "word-thunder",
+        "start": 0.0,
+        "end": 4.97
+      },
+      {
+        "id": "word-lightning",
+        "start": 5.39,
+        "end": 9.79
+      },
+      {
+        "id": "word-electric",
+        "start": 10.21,
+        "end": 14.22
+      },
+      {
+        "id": "word-downpour",
+        "start": 14.64,
+        "end": 18.16
+      },
+      {
+        "id": "word-rumble",
+        "start": 18.58,
+        "end": 21.88
+      },
+      {
+        "id": "word-bolt",
+        "start": 22.3,
+        "end": 26.38
+      },
+      {
+        "id": "word-shelter",
+        "start": 26.8,
+        "end": 31.26
+      },
+      {
+        "id": "word-gust",
+        "start": 31.68,
+        "end": 34.47
+      },
+      {
+        "id": "word-rainbow",
+        "start": 34.89,
+        "end": 39.16
+      },
+      {
+        "id": "word-spectacular",
+        "start": 39.58,
+        "end": 43.31
+      },
+      {
+        "id": "question-recall",
+        "start": 43.73,
+        "end": 48.42
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 48.84,
+        "end": 54.09
+      },
+      {
+        "id": "question-connection",
+        "start": 54.51,
+        "end": 57.93
+      }
+    ],
+    "story-037": [
+      {
+        "id": "word-volcano",
+        "start": 0.0,
+        "end": 5.42
+      },
+      {
+        "id": "word-magma",
+        "start": 5.84,
+        "end": 10.81
+      },
+      {
+        "id": "word-lava",
+        "start": 11.23,
+        "end": 16.46
+      },
+      {
+        "id": "word-eruption",
+        "start": 16.88,
+        "end": 21.19
+      },
+      {
+        "id": "word-geyser",
+        "start": 21.61,
+        "end": 27.22
+      },
+      {
+        "id": "word-obsidian",
+        "start": 27.64,
+        "end": 32.97
+      },
+      {
+        "id": "word-steam",
+        "start": 33.39,
+        "end": 39.02
+      },
+      {
+        "id": "word-crust",
+        "start": 39.44,
+        "end": 43.45
+      },
+      {
+        "id": "word-geothermal",
+        "start": 43.87,
+        "end": 48.31
+      },
+      {
+        "id": "word-ember",
+        "start": 48.73,
+        "end": 52.63
+      },
+      {
+        "id": "question-recall",
+        "start": 53.05,
+        "end": 58.64
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 59.06,
+        "end": 63.78
+      },
+      {
+        "id": "question-connection",
+        "start": 64.2,
+        "end": 68.49
+      }
+    ],
+    "story-038": [
+      {
+        "id": "word-canyon",
+        "start": 0.0,
+        "end": 3.67
+      },
+      {
+        "id": "word-erosion",
+        "start": 4.09,
+        "end": 9.34
+      },
+      {
+        "id": "word-gorge",
+        "start": 9.76,
+        "end": 13.49
+      },
+      {
+        "id": "word-plateau",
+        "start": 13.91,
+        "end": 19.48
+      },
+      {
+        "id": "word-cliff",
+        "start": 19.9,
+        "end": 23.33
+      },
+      {
+        "id": "word-boulder",
+        "start": 23.75,
+        "end": 26.76
+      },
+      {
+        "id": "word-riverbed",
+        "start": 27.18,
+        "end": 31.23
+      },
+      {
+        "id": "word-carve",
+        "start": 31.65,
+        "end": 36.01
+      },
+      {
+        "id": "word-valley",
+        "start": 36.43,
+        "end": 39.82
+      },
+      {
+        "id": "word-reverberate",
+        "start": 40.24,
+        "end": 44.36
+      },
+      {
+        "id": "question-recall",
+        "start": 44.78,
+        "end": 50.41
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 50.83,
+        "end": 56.01
+      },
+      {
+        "id": "question-connection",
+        "start": 56.43,
+        "end": 60.89
+      }
+    ],
+    "story-039": [
+      {
+        "id": "word-breeze",
+        "start": 0.0,
+        "end": 3.29
+      },
+      {
+        "id": "word-gust",
+        "start": 3.71,
+        "end": 6.56
+      },
+      {
+        "id": "word-whirlwind",
+        "start": 6.98,
+        "end": 10.91
+      },
+      {
+        "id": "word-gale",
+        "start": 11.33,
+        "end": 15.57
+      },
+      {
+        "id": "word-vortex",
+        "start": 15.99,
+        "end": 20.11
+      },
+      {
+        "id": "word-swirl",
+        "start": 20.53,
+        "end": 23.86
+      },
+      {
+        "id": "word-dusty",
+        "start": 24.28,
+        "end": 28.25
+      },
+      {
+        "id": "word-cyclone",
+        "start": 28.67,
+        "end": 33.28
+      },
+      {
+        "id": "word-airflow",
+        "start": 33.7,
+        "end": 37.02
+      },
+      {
+        "id": "word-whisper",
+        "start": 37.44,
+        "end": 41.8
+      },
+      {
+        "id": "question-recall",
+        "start": 42.22,
+        "end": 46.55
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 46.97,
+        "end": 51.49
+      },
+      {
+        "id": "question-connection",
+        "start": 51.91,
+        "end": 56.13
+      }
+    ],
+    "story-040": [
+      {
+        "id": "word-stalactite",
+        "start": 0.0,
+        "end": 5.7
+      },
+      {
+        "id": "word-stalagmite",
+        "start": 6.12,
+        "end": 10.98
+      },
+      {
+        "id": "word-mineral",
+        "start": 11.4,
+        "end": 16.61
+      },
+      {
+        "id": "word-crystal",
+        "start": 17.03,
+        "end": 21.78
+      },
+      {
+        "id": "word-cavern",
+        "start": 22.2,
+        "end": 26.73
+      },
+      {
+        "id": "word-subterranean",
+        "start": 27.15,
+        "end": 31.99
+      },
+      {
+        "id": "word-limestone",
+        "start": 32.41,
+        "end": 38.06
+      },
+      {
+        "id": "word-cavernous",
+        "start": 38.48,
+        "end": 42.49
+      },
+      {
+        "id": "word-drip",
+        "start": 42.91,
+        "end": 46.01
+      },
+      {
+        "id": "word-gemstone",
+        "start": 46.43,
+        "end": 51.82
+      },
+      {
+        "id": "question-recall",
+        "start": 52.24,
+        "end": 57.92
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 58.34,
+        "end": 63.03
+      },
+      {
+        "id": "question-connection",
+        "start": 63.45,
+        "end": 68.06
       }
     ]
   }
