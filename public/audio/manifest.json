@@ -61,7 +61,17 @@
     "story-057": "audio/stories/story-057.m4a",
     "story-058": "audio/stories/story-058.m4a",
     "story-059": "audio/stories/story-059.m4a",
-    "story-060": "audio/stories/story-060.m4a"
+    "story-060": "audio/stories/story-060.m4a",
+    "story-061": "audio/stories/story-061.m4a",
+    "story-062": "audio/stories/story-062.m4a",
+    "story-063": "audio/stories/story-063.m4a",
+    "story-064": "audio/stories/story-064.m4a",
+    "story-065": "audio/stories/story-065.m4a",
+    "story-066": "audio/stories/story-066.m4a",
+    "story-067": "audio/stories/story-067.m4a",
+    "story-068": "audio/stories/story-068.m4a",
+    "story-069": "audio/stories/story-069.m4a",
+    "story-070": "audio/stories/story-070.m4a"
   },
   "cues": {
     "story-001": [
@@ -2583,6 +2593,426 @@
         "start": 120.54,
         "end": 126.35
       }
+    ],
+    "story-061": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.07
+      },
+      {
+        "id": "scene-1",
+        "start": 4.62,
+        "end": 22.18
+      },
+      {
+        "id": "scene-2",
+        "start": 22.73,
+        "end": 37.67
+      },
+      {
+        "id": "scene-3",
+        "start": 38.22,
+        "end": 53.11
+      },
+      {
+        "id": "scene-4",
+        "start": 53.66,
+        "end": 68.03
+      },
+      {
+        "id": "scene-5",
+        "start": 68.58,
+        "end": 84.63
+      },
+      {
+        "id": "scene-6",
+        "start": 85.18,
+        "end": 101.22
+      },
+      {
+        "id": "story-end",
+        "start": 101.77,
+        "end": 107.57
+      }
+    ],
+    "story-062": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.29
+      },
+      {
+        "id": "scene-1",
+        "start": 4.84,
+        "end": 21.58
+      },
+      {
+        "id": "scene-2",
+        "start": 22.13,
+        "end": 36.11
+      },
+      {
+        "id": "scene-3",
+        "start": 36.66,
+        "end": 51.23
+      },
+      {
+        "id": "scene-4",
+        "start": 51.78,
+        "end": 65.82
+      },
+      {
+        "id": "scene-5",
+        "start": 66.37,
+        "end": 81.17
+      },
+      {
+        "id": "scene-6",
+        "start": 81.72,
+        "end": 96.65
+      },
+      {
+        "id": "story-end",
+        "start": 97.2,
+        "end": 103.01
+      }
+    ],
+    "story-063": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.99
+      },
+      {
+        "id": "scene-1",
+        "start": 4.54,
+        "end": 19.3
+      },
+      {
+        "id": "scene-2",
+        "start": 19.85,
+        "end": 35.4
+      },
+      {
+        "id": "scene-3",
+        "start": 35.95,
+        "end": 49.42
+      },
+      {
+        "id": "scene-4",
+        "start": 49.97,
+        "end": 64.02
+      },
+      {
+        "id": "scene-5",
+        "start": 64.57,
+        "end": 79.0
+      },
+      {
+        "id": "scene-6",
+        "start": 79.55,
+        "end": 95.48
+      },
+      {
+        "id": "story-end",
+        "start": 96.03,
+        "end": 101.83
+      }
+    ],
+    "story-064": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.75
+      },
+      {
+        "id": "scene-1",
+        "start": 4.3,
+        "end": 17.72
+      },
+      {
+        "id": "scene-2",
+        "start": 18.27,
+        "end": 31.5
+      },
+      {
+        "id": "scene-3",
+        "start": 32.05,
+        "end": 44.72
+      },
+      {
+        "id": "scene-4",
+        "start": 45.27,
+        "end": 58.01
+      },
+      {
+        "id": "scene-5",
+        "start": 58.56,
+        "end": 72.64
+      },
+      {
+        "id": "scene-6",
+        "start": 73.19,
+        "end": 86.54
+      },
+      {
+        "id": "story-end",
+        "start": 87.09,
+        "end": 92.9
+      }
+    ],
+    "story-065": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.84
+      },
+      {
+        "id": "scene-1",
+        "start": 5.39,
+        "end": 21.63
+      },
+      {
+        "id": "scene-2",
+        "start": 22.18,
+        "end": 36.66
+      },
+      {
+        "id": "scene-3",
+        "start": 37.21,
+        "end": 51.31
+      },
+      {
+        "id": "scene-4",
+        "start": 51.86,
+        "end": 64.41
+      },
+      {
+        "id": "scene-5",
+        "start": 64.96,
+        "end": 81.94
+      },
+      {
+        "id": "scene-6",
+        "start": 82.49,
+        "end": 97.59
+      },
+      {
+        "id": "story-end",
+        "start": 98.14,
+        "end": 103.95
+      }
+    ],
+    "story-066": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 3.99
+      },
+      {
+        "id": "scene-1",
+        "start": 4.54,
+        "end": 19.43
+      },
+      {
+        "id": "scene-2",
+        "start": 19.98,
+        "end": 34.47
+      },
+      {
+        "id": "scene-3",
+        "start": 35.02,
+        "end": 50.35
+      },
+      {
+        "id": "scene-4",
+        "start": 50.9,
+        "end": 65.54
+      },
+      {
+        "id": "scene-5",
+        "start": 66.09,
+        "end": 82.0
+      },
+      {
+        "id": "scene-6",
+        "start": 82.55,
+        "end": 95.4
+      },
+      {
+        "id": "story-end",
+        "start": 95.95,
+        "end": 101.75
+      }
+    ],
+    "story-067": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.59
+      },
+      {
+        "id": "scene-1",
+        "start": 5.14,
+        "end": 19.69
+      },
+      {
+        "id": "scene-2",
+        "start": 20.24,
+        "end": 35.0
+      },
+      {
+        "id": "scene-3",
+        "start": 35.55,
+        "end": 49.31
+      },
+      {
+        "id": "scene-4",
+        "start": 49.86,
+        "end": 64.26
+      },
+      {
+        "id": "scene-5",
+        "start": 64.81,
+        "end": 80.36
+      },
+      {
+        "id": "scene-6",
+        "start": 80.91,
+        "end": 94.5
+      },
+      {
+        "id": "story-end",
+        "start": 95.05,
+        "end": 100.85
+      }
+    ],
+    "story-068": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.07
+      },
+      {
+        "id": "scene-1",
+        "start": 4.62,
+        "end": 17.64
+      },
+      {
+        "id": "scene-2",
+        "start": 18.19,
+        "end": 31.67
+      },
+      {
+        "id": "scene-3",
+        "start": 32.22,
+        "end": 46.07
+      },
+      {
+        "id": "scene-4",
+        "start": 46.62,
+        "end": 60.38
+      },
+      {
+        "id": "scene-5",
+        "start": 60.93,
+        "end": 74.81
+      },
+      {
+        "id": "scene-6",
+        "start": 75.36,
+        "end": 88.97
+      },
+      {
+        "id": "story-end",
+        "start": 89.52,
+        "end": 95.33
+      }
+    ],
+    "story-069": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.18
+      },
+      {
+        "id": "scene-1",
+        "start": 4.73,
+        "end": 18.58
+      },
+      {
+        "id": "scene-2",
+        "start": 19.13,
+        "end": 34.57
+      },
+      {
+        "id": "scene-3",
+        "start": 35.12,
+        "end": 48.84
+      },
+      {
+        "id": "scene-4",
+        "start": 49.39,
+        "end": 62.21
+      },
+      {
+        "id": "scene-5",
+        "start": 62.76,
+        "end": 76.48
+      },
+      {
+        "id": "scene-6",
+        "start": 77.03,
+        "end": 91.24
+      },
+      {
+        "id": "story-end",
+        "start": 91.79,
+        "end": 97.59
+      }
+    ],
+    "story-070": [
+      {
+        "id": "story-title",
+        "start": 0.0,
+        "end": 4.12
+      },
+      {
+        "id": "scene-1",
+        "start": 4.67,
+        "end": 19.24
+      },
+      {
+        "id": "scene-2",
+        "start": 19.79,
+        "end": 32.65
+      },
+      {
+        "id": "scene-3",
+        "start": 33.2,
+        "end": 45.4
+      },
+      {
+        "id": "scene-4",
+        "start": 45.95,
+        "end": 60.57
+      },
+      {
+        "id": "scene-5",
+        "start": 61.12,
+        "end": 76.24
+      },
+      {
+        "id": "scene-6",
+        "start": 76.79,
+        "end": 90.66
+      },
+      {
+        "id": "story-end",
+        "start": 91.21,
+        "end": 97.01
+      }
     ]
   },
   "wordAudio": {
@@ -2645,7 +3075,17 @@
     "story-057": "audio/words/story-057-words.m4a",
     "story-058": "audio/words/story-058-words.m4a",
     "story-059": "audio/words/story-059-words.m4a",
-    "story-060": "audio/words/story-060-words.m4a"
+    "story-060": "audio/words/story-060-words.m4a",
+    "story-061": "audio/words/story-061-words.m4a",
+    "story-062": "audio/words/story-062-words.m4a",
+    "story-063": "audio/words/story-063-words.m4a",
+    "story-064": "audio/words/story-064-words.m4a",
+    "story-065": "audio/words/story-065-words.m4a",
+    "story-066": "audio/words/story-066-words.m4a",
+    "story-067": "audio/words/story-067-words.m4a",
+    "story-068": "audio/words/story-068-words.m4a",
+    "story-069": "audio/words/story-069-words.m4a",
+    "story-070": "audio/words/story-070-words.m4a"
   },
   "wordCues": {
     "story-001": [
@@ -6666,6 +7106,676 @@
         "id": "question-connection",
         "start": 52.04,
         "end": 56.69
+      }
+    ],
+    "story-061": [
+      {
+        "id": "word-carnivore",
+        "start": 0.0,
+        "end": 2.84
+      },
+      {
+        "id": "word-ferocious",
+        "start": 3.26,
+        "end": 6.14
+      },
+      {
+        "id": "word-fossil",
+        "start": 6.56,
+        "end": 11.83
+      },
+      {
+        "id": "word-prehistoric",
+        "start": 12.25,
+        "end": 17.43
+      },
+      {
+        "id": "word-roar",
+        "start": 17.85,
+        "end": 22.16
+      },
+      {
+        "id": "word-tiny-arms",
+        "start": 22.58,
+        "end": 26.68
+      },
+      {
+        "id": "word-predator",
+        "start": 27.1,
+        "end": 30.45
+      },
+      {
+        "id": "word-stomp",
+        "start": 30.87,
+        "end": 34.04
+      },
+      {
+        "id": "word-ancient",
+        "start": 34.46,
+        "end": 38.62
+      },
+      {
+        "id": "word-extinct",
+        "start": 39.04,
+        "end": 43.63
+      },
+      {
+        "id": "question-recall",
+        "start": 44.05,
+        "end": 48.96
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.38,
+        "end": 53.92
+      },
+      {
+        "id": "question-connection",
+        "start": 54.34,
+        "end": 58.63
+      }
+    ],
+    "story-062": [
+      {
+        "id": "word-herbivore",
+        "start": 0.0,
+        "end": 4.05
+      },
+      {
+        "id": "word-long-neck",
+        "start": 4.47,
+        "end": 8.23
+      },
+      {
+        "id": "word-foliage",
+        "start": 8.65,
+        "end": 12.55
+      },
+      {
+        "id": "word-towering",
+        "start": 12.97,
+        "end": 16.73
+      },
+      {
+        "id": "word-gentle",
+        "start": 17.15,
+        "end": 20.01
+      },
+      {
+        "id": "word-sauropod",
+        "start": 20.43,
+        "end": 26.25
+      },
+      {
+        "id": "word-colossal",
+        "start": 26.67,
+        "end": 30.34
+      },
+      {
+        "id": "word-graze",
+        "start": 30.76,
+        "end": 33.94
+      },
+      {
+        "id": "word-canopy",
+        "start": 34.36,
+        "end": 38.03
+      },
+      {
+        "id": "word-giant",
+        "start": 38.45,
+        "end": 41.86
+      },
+      {
+        "id": "question-recall",
+        "start": 42.28,
+        "end": 47.19
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 47.61,
+        "end": 51.66
+      },
+      {
+        "id": "question-connection",
+        "start": 52.08,
+        "end": 56.35
+      }
+    ],
+    "story-063": [
+      {
+        "id": "word-frill",
+        "start": 0.0,
+        "end": 3.93
+      },
+      {
+        "id": "word-trio",
+        "start": 4.35,
+        "end": 6.8
+      },
+      {
+        "id": "word-horn",
+        "start": 7.22,
+        "end": 11.46
+      },
+      {
+        "id": "word-defensive",
+        "start": 11.88,
+        "end": 16.07
+      },
+      {
+        "id": "word-graze",
+        "start": 16.49,
+        "end": 20.82
+      },
+      {
+        "id": "word-herd",
+        "start": 21.24,
+        "end": 26.21
+      },
+      {
+        "id": "word-snout",
+        "start": 26.63,
+        "end": 31.36
+      },
+      {
+        "id": "word-armored",
+        "start": 31.78,
+        "end": 35.47
+      },
+      {
+        "id": "word-charge",
+        "start": 35.89,
+        "end": 39.05
+      },
+      {
+        "id": "word-plant-eater",
+        "start": 39.47,
+        "end": 43.23
+      },
+      {
+        "id": "question-recall",
+        "start": 43.65,
+        "end": 49.21
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.63,
+        "end": 54.54
+      },
+      {
+        "id": "question-connection",
+        "start": 54.96,
+        "end": 60.27
+      }
+    ],
+    "story-064": [
+      {
+        "id": "word-pterosaur",
+        "start": 0.0,
+        "end": 4.14
+      },
+      {
+        "id": "word-wingspan",
+        "start": 4.56,
+        "end": 8.85
+      },
+      {
+        "id": "word-crest",
+        "start": 9.27,
+        "end": 14.49
+      },
+      {
+        "id": "word-cliffside",
+        "start": 14.91,
+        "end": 18.69
+      },
+      {
+        "id": "word-soar",
+        "start": 19.11,
+        "end": 22.71
+      },
+      {
+        "id": "word-dive",
+        "start": 23.13,
+        "end": 26.31
+      },
+      {
+        "id": "word-hollow-boned",
+        "start": 26.73,
+        "end": 32.19
+      },
+      {
+        "id": "word-glide",
+        "start": 32.61,
+        "end": 35.26
+      },
+      {
+        "id": "word-prehistoric",
+        "start": 35.68,
+        "end": 40.16
+      },
+      {
+        "id": "word-breeze",
+        "start": 40.58,
+        "end": 45.02
+      },
+      {
+        "id": "question-recall",
+        "start": 45.44,
+        "end": 49.49
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.91,
+        "end": 55.09
+      },
+      {
+        "id": "question-connection",
+        "start": 55.51,
+        "end": 60.06
+      }
+    ],
+    "story-065": [
+      {
+        "id": "word-paleontologist",
+        "start": 0.0,
+        "end": 6.1
+      },
+      {
+        "id": "word-excavate",
+        "start": 6.52,
+        "end": 12.0
+      },
+      {
+        "id": "word-fossil",
+        "start": 12.42,
+        "end": 17.37
+      },
+      {
+        "id": "word-chisel",
+        "start": 17.79,
+        "end": 22.59
+      },
+      {
+        "id": "word-brush",
+        "start": 23.01,
+        "end": 29.11
+      },
+      {
+        "id": "word-skeleton",
+        "start": 29.53,
+        "end": 33.78
+      },
+      {
+        "id": "word-ancient",
+        "start": 34.2,
+        "end": 37.63
+      },
+      {
+        "id": "word-museum",
+        "start": 38.05,
+        "end": 44.13
+      },
+      {
+        "id": "word-discovery",
+        "start": 44.55,
+        "end": 49.14
+      },
+      {
+        "id": "word-artifact",
+        "start": 49.56,
+        "end": 53.83
+      },
+      {
+        "id": "question-recall",
+        "start": 54.25,
+        "end": 60.29
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 60.71,
+        "end": 65.38
+      },
+      {
+        "id": "question-connection",
+        "start": 65.8,
+        "end": 70.77
+      }
+    ],
+    "story-066": [
+      {
+        "id": "word-plates",
+        "start": 0.0,
+        "end": 5.55
+      },
+      {
+        "id": "word-spiky",
+        "start": 5.97,
+        "end": 9.21
+      },
+      {
+        "id": "word-thagomizer",
+        "start": 9.63,
+        "end": 15.3
+      },
+      {
+        "id": "word-armor",
+        "start": 15.72,
+        "end": 20.23
+      },
+      {
+        "id": "word-defend",
+        "start": 20.65,
+        "end": 24.42
+      },
+      {
+        "id": "word-reptile",
+        "start": 24.84,
+        "end": 30.17
+      },
+      {
+        "id": "word-lumbering",
+        "start": 30.59,
+        "end": 35.22
+      },
+      {
+        "id": "word-prehistoric",
+        "start": 35.64,
+        "end": 39.7
+      },
+      {
+        "id": "word-scales",
+        "start": 40.12,
+        "end": 44.79
+      },
+      {
+        "id": "word-shield",
+        "start": 45.21,
+        "end": 48.35
+      },
+      {
+        "id": "question-recall",
+        "start": 48.77,
+        "end": 53.39
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 53.81,
+        "end": 57.59
+      },
+      {
+        "id": "question-connection",
+        "start": 58.01,
+        "end": 63.11
+      }
+    ],
+    "story-067": [
+      {
+        "id": "word-swift",
+        "start": 0.0,
+        "end": 3.88
+      },
+      {
+        "id": "word-agile",
+        "start": 4.3,
+        "end": 8.78
+      },
+      {
+        "id": "word-cunning",
+        "start": 9.2,
+        "end": 12.96
+      },
+      {
+        "id": "word-feathered",
+        "start": 13.38,
+        "end": 16.68
+      },
+      {
+        "id": "word-sprint",
+        "start": 17.1,
+        "end": 20.18
+      },
+      {
+        "id": "word-track",
+        "start": 20.6,
+        "end": 23.95
+      },
+      {
+        "id": "word-stealthy",
+        "start": 24.37,
+        "end": 28.53
+      },
+      {
+        "id": "word-nimble",
+        "start": 28.95,
+        "end": 31.87
+      },
+      {
+        "id": "word-keen",
+        "start": 32.29,
+        "end": 35.66
+      },
+      {
+        "id": "word-cooperation",
+        "start": 36.08,
+        "end": 39.43
+      },
+      {
+        "id": "question-recall",
+        "start": 39.85,
+        "end": 44.93
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 45.35,
+        "end": 48.95
+      },
+      {
+        "id": "question-connection",
+        "start": 49.37,
+        "end": 53.06
+      }
+    ],
+    "story-068": [
+      {
+        "id": "word-incubate",
+        "start": 0.0,
+        "end": 5.06
+      },
+      {
+        "id": "word-shell",
+        "start": 5.48,
+        "end": 9.04
+      },
+      {
+        "id": "word-hatchling",
+        "start": 9.46,
+        "end": 13.04
+      },
+      {
+        "id": "word-nest",
+        "start": 13.46,
+        "end": 17.6
+      },
+      {
+        "id": "word-fragile",
+        "start": 18.02,
+        "end": 22.2
+      },
+      {
+        "id": "word-emergence",
+        "start": 22.62,
+        "end": 27.04
+      },
+      {
+        "id": "word-chirp",
+        "start": 27.46,
+        "end": 32.9
+      },
+      {
+        "id": "word-maternal",
+        "start": 33.32,
+        "end": 37.16
+      },
+      {
+        "id": "word-warmth",
+        "start": 37.58,
+        "end": 41.03
+      },
+      {
+        "id": "word-newborn",
+        "start": 41.45,
+        "end": 44.85
+      },
+      {
+        "id": "question-recall",
+        "start": 45.27,
+        "end": 49.51
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 49.93,
+        "end": 54.11
+      },
+      {
+        "id": "question-connection",
+        "start": 54.53,
+        "end": 58.18
+      }
+    ],
+    "story-069": [
+      {
+        "id": "word-amber",
+        "start": 0.0,
+        "end": 5.29
+      },
+      {
+        "id": "word-resin",
+        "start": 5.71,
+        "end": 10.04
+      },
+      {
+        "id": "word-preserved",
+        "start": 10.46,
+        "end": 14.92
+      },
+      {
+        "id": "word-fossilized",
+        "start": 15.34,
+        "end": 20.14
+      },
+      {
+        "id": "word-translucent",
+        "start": 20.56,
+        "end": 25.49
+      },
+      {
+        "id": "word-ancient",
+        "start": 25.91,
+        "end": 30.52
+      },
+      {
+        "id": "word-trap",
+        "start": 30.94,
+        "end": 34.03
+      },
+      {
+        "id": "word-golden",
+        "start": 34.45,
+        "end": 38.12
+      },
+      {
+        "id": "word-specimen",
+        "start": 38.54,
+        "end": 43.98
+      },
+      {
+        "id": "word-time-capsule",
+        "start": 44.4,
+        "end": 49.84
+      },
+      {
+        "id": "question-recall",
+        "start": 50.26,
+        "end": 54.91
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 55.33,
+        "end": 59.94
+      },
+      {
+        "id": "question-connection",
+        "start": 60.36,
+        "end": 65.97
+      }
+    ],
+    "story-070": [
+      {
+        "id": "word-mammoth",
+        "start": 0.0,
+        "end": 5.65
+      },
+      {
+        "id": "word-tusk",
+        "start": 6.07,
+        "end": 11.24
+      },
+      {
+        "id": "word-shaggy",
+        "start": 11.66,
+        "end": 14.83
+      },
+      {
+        "id": "word-fleece",
+        "start": 15.25,
+        "end": 19.18
+      },
+      {
+        "id": "word-tundra",
+        "start": 19.6,
+        "end": 24.44
+      },
+      {
+        "id": "word-ice-age",
+        "start": 24.86,
+        "end": 30.96
+      },
+      {
+        "id": "word-freezing",
+        "start": 31.38,
+        "end": 36.33
+      },
+      {
+        "id": "word-trumpet",
+        "start": 36.75,
+        "end": 41.04
+      },
+      {
+        "id": "word-migrate",
+        "start": 41.46,
+        "end": 45.37
+      },
+      {
+        "id": "word-glacier",
+        "start": 45.79,
+        "end": 50.01
+      },
+      {
+        "id": "question-recall",
+        "start": 50.43,
+        "end": 54.78
+      },
+      {
+        "id": "question-vocabulary",
+        "start": 55.2,
+        "end": 59.23
+      },
+      {
+        "id": "question-connection",
+        "start": 59.65,
+        "end": 64.84
       }
     ]
   }
