@@ -13,6 +13,7 @@ import { PHASE_WORLDS } from './data/phases';
 import { ALL_STORIES, STORY_BY_ID, TOTAL_STORIES, TOTAL_WORDS } from './data/stories';
 import { PhaseId } from './types';
 import { useStorySpeech } from './hooks/useStorySpeech';
+import { useSceneImages } from './hooks/useSceneImages';
 import { StoryLibrary } from './components/StoryLibrary';
 import { makeWordKey, StoryReader } from './components/StoryReader';
 import { WordChest } from './components/WordChest';
@@ -74,6 +75,7 @@ export function App() {
   );
 
   const speech = useStorySpeech();
+  const sceneImages = useSceneImages();
   const activeStory = STORY_BY_ID[activeStoryId] ?? ALL_STORIES[0];
 
   // Persist explorer progress
@@ -424,6 +426,7 @@ export function App() {
             autoRead={autoRead}
             onToggleAutoRead={handleToggleAutoRead}
             speech={speech}
+            getSceneImageUrl={sceneImages.getSceneImageUrl}
             onSelectStory={handleOpenStory}
             onToggleStoryComplete={handleToggleStoryComplete}
             onMarkWordLearned={handleMarkWordLearned}
@@ -437,6 +440,7 @@ export function App() {
             spotlightIndex={spotlightIndex}
             completedStoryIds={completedStoryIds}
             hasStoryStudioVoice={speech.hasStoryStudioVoice}
+            getSceneImageUrl={sceneImages.getSceneImageUrl}
             onChangePhaseFilter={setPhaseFilter}
             onChangeSpotlightIndex={setSpotlightIndex}
             onOpenStory={handleOpenStory}

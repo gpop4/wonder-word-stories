@@ -11,6 +11,7 @@ interface StoryLibraryProps {
   spotlightIndex: number;
   completedStoryIds: Set<number>;
   hasStoryStudioVoice: (slug: string) => boolean;
+  getSceneImageUrl: (storySlug: string, pageNumber: number) => string | null;
   onChangePhaseFilter: (phase: 'all' | PhaseId) => void;
   onChangeSpotlightIndex: (idx: number) => void;
   onOpenStory: (storyId: number) => void;
@@ -24,6 +25,7 @@ export function StoryLibrary({
   spotlightIndex,
   completedStoryIds,
   hasStoryStudioVoice,
+  getSceneImageUrl,
   onChangePhaseFilter,
   onChangeSpotlightIndex,
   onOpenStory,
@@ -195,7 +197,12 @@ export function StoryLibrary({
               }}
             >
               <div className="spotlight-card__visual">
-                <StorySceneArt scene={featured.scenes[0]} storyId={featured.id} compact />
+                <StorySceneArt
+                  scene={featured.scenes[0]}
+                  storyId={featured.id}
+                  imageUrl={getSceneImageUrl(featured.slug, 1)}
+                  compact
+                />
                 <div className="spotlight-card__pills">
                   <span className="story-badge story-badge--num">
                     Story #{featured.id}
@@ -273,7 +280,12 @@ export function StoryLibrary({
                     onClick={() => onOpenStory(s.id)}
                   >
                     <div className="story-card__art">
-                      <StorySceneArt scene={s.scenes[0]} storyId={s.id} compact />
+                      <StorySceneArt
+                        scene={s.scenes[0]}
+                        storyId={s.id}
+                        imageUrl={getSceneImageUrl(s.slug, 1)}
+                        compact
+                      />
                       <span className="story-card__num">
                         #{String(s.id).padStart(2, '0')}
                       </span>

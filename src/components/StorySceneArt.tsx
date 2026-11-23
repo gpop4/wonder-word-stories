@@ -1,9 +1,10 @@
-import { useId } from 'react';
+import { useEffect, useId, useState } from 'react';
 import { SceneBackdrop, SceneEffect, StoryScene } from '../types';
 
 interface StorySceneArtProps {
   scene: StoryScene;
   storyId: number;
+  imageUrl?: string | null;
   compact?: boolean;
   onClick?: () => void;
 }
@@ -729,9 +730,22 @@ function renderEffect(effect: SceneEffect) {
   }
 }
 
-export function StorySceneArt({ scene, storyId, compact = false, onClick }: StorySceneArtProps) {
+export function StorySceneArt({
+  scene,
+  storyId,
+  imageUrl,
+  compact = false,
+  onClick,
+}: StorySceneArtProps) {
   const uid = useId().replace(/:/g, '');
+  const [imgFailed, setImgFailed] = useState(false);
+
+  useEffect(() => {
+    setImgFailed(false);
+  }, [imageUrl]);
+
   const style = BACKDROP_STYLES[scene.backdrop] ?? BACKDROP_STYLES['forest-day'];
+  const showRealImage = Boolean(imageUrl) && !imgFailed;
 
   // Deterministic slight position variation so every page feels freshly composed
   const shift = ((storyId + scene.pageNumber) % 3) - 1; // -1, 0, 1
@@ -761,6 +775,15 @@ export function StorySceneArt({ scene, storyId, compact = false, onClick }: Stor
       }
       aria-label={scene.caption}
     >
+      {showRealImage && imageUrl ? (
+        <img
+          src={imageUrl}
+          alt={scene.caption}
+          className="scene-art__img"
+          loading={compact ? 'lazy' : 'eager'}
+          onError={() => setImgFailed(true)}
+        />
+      ) : (
       <svg
         viewBox="0 0 400 260"
         className="scene-art__svg"
@@ -861,6 +884,7 @@ export function StorySceneArt({ scene, storyId, compact = false, onClick }: Stor
           </text>
         </g>
       </svg>
+      )}
 
       {!compact && (
         <div className="scene-art__overlay-badges">

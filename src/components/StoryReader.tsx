@@ -48,6 +48,7 @@ interface StoryReaderProps {
     resume: () => void;
     stop: () => void;
   };
+  getSceneImageUrl: (storySlug: string, pageNumber: number) => string | null;
   onSelectStory: (storyId: number) => void;
   onToggleStoryComplete: (storyId: number) => void;
   onMarkWordLearned: (wordKey: string) => void;
@@ -122,6 +123,7 @@ export function StoryReader({
   autoRead,
   onToggleAutoRead,
   speech,
+  getSceneImageUrl,
   onSelectStory,
   onToggleStoryComplete,
   onMarkWordLearned,
@@ -327,8 +329,8 @@ export function StoryReader({
             style={{ '--story-accent': story.accentColor } as React.CSSProperties}
           >
             <img
-              src={phase?.image}
-              alt={phase?.name}
+              src={getSceneImageUrl(story.slug, 1) ?? phase?.image}
+              alt={story.title}
               className="story-hero__bg-img"
             />
             <div className="story-hero__scrim" />
@@ -504,6 +506,7 @@ export function StoryReader({
                       <StorySceneArt
                         scene={scene}
                         storyId={story.id}
+                        imageUrl={getSceneImageUrl(story.slug, scene.pageNumber)}
                         onClick={() => setLightboxPageIdx(idx)}
                       />
                       <button
@@ -836,7 +839,11 @@ export function StoryReader({
 
             <div className="photo-lightbox__stage">
               <div className="photo-lightbox__art-wrap">
-                <StorySceneArt scene={lightboxScene} storyId={story.id} />
+                <StorySceneArt
+                  scene={lightboxScene}
+                  storyId={story.id}
+                  imageUrl={getSceneImageUrl(story.slug, lightboxScene.pageNumber)}
+                />
               </div>
 
               <button
